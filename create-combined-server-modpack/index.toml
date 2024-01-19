@@ -1,0 +1,3597 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".fabric/processedMods/biolith-1.0.0-beta.1-b019e5d8e9dd5068.jar"
+hash = "d2443b08ca859b73254ed7ee09d816313afd0ebfbac8766fef344eb43be60fe0"
+
+[[files]]
+file = ".fabric/processedMods/blue_endless_jankson-1.2.3-6d029f19551592fd.jar"
+hash = "8e467165f589acc0c28d61bb232a2ada263aaaa633c4dc6f8fdf78974ac238da"
+
+[[files]]
+file = ".fabric/processedMods/capsaicin-1.3.3+mc1.20.1-8d5c98d613fef2d9.jar"
+hash = "570a7684e5c4c0d1423acd1c9f2f34bef545acf04941256e934af81e04eb7dc0"
+
+[[files]]
+file = ".fabric/processedMods/cardinal-components-base-5.2.2-9148ba1f751e9e24.jar"
+hash = "62c70f70aeeee29ff2e8edf974fcd6e49f8ac8a2e9da6c0d8cb1963524b3d7d6"
+
+[[files]]
+file = ".fabric/processedMods/cardinal-components-entity-5.2.2-d288c91265e33e64.jar"
+hash = "10020aa390b7af76e4df93496d225d7895749e06dfb075f567a449d9071db079"
+
+[[files]]
+file = ".fabric/processedMods/cinderscapes-common-4.0.10-e0116747d7bbbc9f.jar"
+hash = "33f80520908b11372aef0e9b95b4a907b0ae6950ce3acda19ea5c68bfad24faf"
+
+[[files]]
+file = ".fabric/processedMods/cinderscapes-worldgen-4.0.10-c5d4977fe99cab59.jar"
+hash = "3dbce79d0e8dabe0c606fb8638ddb4f0a8bf14e9f9e4d45867430bf6f1269ed6"
+
+[[files]]
+file = ".fabric/processedMods/cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar"
+hash = "2527eb04394e7a13fa5b8884baa9319f60b07ad6229d759f9451563cd113c059"
+
+[[files]]
+file = ".fabric/processedMods/com_electronwill_night-config_core-3.6.7-a72c4a2dc7640012.jar"
+hash = "5a6a12f017acf3beaf9b29b8dcfb408e9f56e70e9e5acce1f4a688784b034ee9"
+
+[[files]]
+file = ".fabric/processedMods/com_electronwill_night-config_toml-3.6.7-2c2d459818b91e69.jar"
+hash = "8a1a0e67feefcf0abf80496c0003ac54ace73c5b3a47f9e8dbea02573f70aeea"
+
+[[files]]
+file = ".fabric/processedMods/com_eliotlash_mclib_mclib-20-df4b4f4f43c7223b.jar"
+hash = "9c5caf87c1a6dd7af72c8f39de4574440292d70a4a58a0ea30254452c88586b7"
+
+[[files]]
+file = ".fabric/processedMods/com_github_shevek_parallelgzip-aa5810b8aff6-130478b451f210ed.jar"
+hash = "473f3f609942d7f2dd33b3ba04665f88ae08fadc8baabce9b1dedc01e4a6aaba"
+
+[[files]]
+file = ".fabric/processedMods/com_google_code_findbugs_jsr305-3.0.2-aeb8a27712720cd0.jar"
+hash = "b1d948e6f2f9db3e3160f74f14764edeb5a24efd6f8571f512cff9c73b888828"
+
+[[files]]
+file = ".fabric/processedMods/com_twelvemonkeys_common_common-.0-SNAPSHOT-1237c200d1aba215.jar"
+hash = "92b9d8f5ef8132b22a4165390e8313e27a53969a72d581a554514c38ef1894f0"
+
+[[files]]
+file = ".fabric/processedMods/com_twelvemonkeys_common_common-.0-SNAPSHOT-6c990bb26a224ff4.jar"
+hash = "15497d29cd3ad8456766d00ab244123a92a6bafa0dbf947d8e5eff2bd1bf4006"
+
+[[files]]
+file = ".fabric/processedMods/com_twelvemonkeys_common_common-0.0-SNAPSHOT-50716ce90dbb166.jar"
+hash = "b800530a8d189916bd018c179556ff10cfad3f0c1511e76e3efbf19f909ff1aa"
+
+[[files]]
+file = ".fabric/processedMods/com_twelvemonkeys_imageio_imagei.0-SNAPSHOT-9b0a07b2a12aefb6.jar"
+hash = "768a3fd8d93c33869579f3f9766d5ee70ed5d7344c4b63a394b2fa904617c2d8"
+
+[[files]]
+file = ".fabric/processedMods/com_twelvemonkeys_imageio_imagei.0-SNAPSHOT-dfc671f36543037d.jar"
+hash = "f6a3c22d05d71a38c5a90aef907892248e6d123ba19fc50ce8ee90f571a2b82b"
+
+[[files]]
+file = ".fabric/processedMods/com_twelvemonkeys_imageio_imagei.0-SNAPSHOT-e84dc322fd05d4cb.jar"
+hash = "34ca813d69248ce9f3520a4fa4ded468d782b1689bdabfef8fbba82504af6890"
+
+[[files]]
+file = ".fabric/processedMods/com_velocitypowered_velocity-nat.0-SNAPSHOT-fd53111d5c9ac8d8.jar"
+hash = "56fc7f842e8c6e58f1f435c67dd98f251ed047f4af22bf3b24fa621d60afae5b"
+
+[[files]]
+file = ".fabric/processedMods/conditional-mixin-0.4.1-cf8d52c46253b335.jar"
+hash = "ef737b6b4cb48d68642e4896f56639d61eb128a3155d92cd5e44404f036712a5"
+
+[[files]]
+file = ".fabric/processedMods/config_toolkit-1.0.0-675acd6ae9cb56e6.jar"
+hash = "127a430385fac6b0c6f67fc07fe57810a4b3b061f7fb3f4d9fa72a2879d31339"
+
+[[files]]
+file = ".fabric/processedMods/dripstone_fluid_lib-3.0.2-ecc77cb4854c5323.jar"
+hash = "36500a012d80c9d8b6144c78c1287c66a29e1f0e80e3430b45702a4b8b4032e7"
+
+[[files]]
+file = ".fabric/processedMods/extensibleenums-7.0.1-2db1f3a5468557cc.jar"
+hash = "e04a1b41d60a378ae575856f0059bf4dec8312972571f9ae6ce7f23c776c12e1"
+
+[[files]]
+file = ".fabric/processedMods/fabric-api-base-0.4.30+7abfd51577-6d5a310a7f27516.jar"
+hash = "da2d1f6850b0d2171b84c234f9b026ad9a98b140efa4236ae62ae56134b8ebaa"
+
+[[files]]
+file = ".fabric/processedMods/fabric-api-lookup-api-v1-1.6.35+4d8536c977-1d216e9c49a40286.jar"
+hash = "539c580da7033456697a66952e9328d4c1e066e625f9786b924ff145747c85b1"
+
+[[files]]
+file = ".fabric/processedMods/fabric-biome-api-v1-13.0.12+215bbe9677-b08656b91f145cb8.jar"
+hash = "d3a521d7ac8f773d4d2e67fe1c43c894cb75e3f95e011214604e0e3e7d47b842"
+
+[[files]]
+file = ".fabric/processedMods/fabric-block-api-v1-1.0.10+92a0d36777-24c1eeb479b9de88.jar"
+hash = "552d33dc437d3a7f20bdbb039056cfa27898049522b4c7d63944f2a8af9bc660"
+
+[[files]]
+file = ".fabric/processedMods/fabric-block-view-api-v2-1.0.0+92a0d36777-312f1e5a294b5459.jar"
+hash = "210bfddf32689efb6cdb3b879b0f3c0262c9ab53de33e49d33c16d87557e129e"
+
+[[files]]
+file = ".fabric/processedMods/fabric-command-api-v1-1.2.33+f71b366f77-7a38d73f9d6c1da6.jar"
+hash = "de33e12471a14b3b5a0c9c94af778a9e361dd9aa01c68b43a07e264535e4ca08"
+
+[[files]]
+file = ".fabric/processedMods/fabric-command-api-v2-2.2.12+b3afc78b77-c2cd9e43fe8a5c59.jar"
+hash = "c6e0cd54e8d0352fb7b55169c1e3333434b5a73007bbe248d9405fb64e192a27"
+
+[[files]]
+file = ".fabric/processedMods/fabric-commands-v0-0.2.50+df3654b377-29ba68cc718c085d.jar"
+hash = "949acccd10b46f1778ed4b31b977123b39a6a054f17d39147d979426837e949a"
+
+[[files]]
+file = ".fabric/processedMods/fabric-containers-v0-0.1.63+df3654b377-d0fc9c145764f8b7.jar"
+hash = "347df6e54db96757bf996f3cc8832118e23da56b71fd624e2a608b1cf2a02a46"
+
+[[files]]
+file = ".fabric/processedMods/fabric-content-registries-v0-4.0+57aed33f77-a98f37131f8f0242.jar"
+hash = "c7808d48313921c04f7b93084457e6e9061322e330d1b8c7b918fbd4d7e28d6d"
+
+[[files]]
+file = ".fabric/processedMods/fabric-convention-tags-v1-1.5.4+a1a980da77-3f1ea16da5664a6d.jar"
+hash = "86948eb09b0e2c60cf12bd65c6bfb5f428bcc61bec7e24ba979b810c20e2fb1a"
+
+[[files]]
+file = ".fabric/processedMods/fabric-crash-report-info-v1-0.2.+aeb40ebe77-fd34afea42c81671.jar"
+hash = "c36ca7e19196f5eed20ceca9893e09963fd2e1fad71bbe39dce82f8db90616bd"
+
+[[files]]
+file = ".fabric/processedMods/fabric-data-generation-api-v1-12+d7b148e077-414fc7407732c3b0.jar"
+hash = "789e3cb9a920a37e2b48eb792be563b6f8b5258bd2ed53269063bf2715d4d875"
+
+[[files]]
+file = ".fabric/processedMods/fabric-dimensions-v1-2.1.53+8536527b77-f8c925c74af367d7.jar"
+hash = "d246faa4915bdab9e2f45af233a572c3302d9e77385fa8c354bca434d3a00bc8"
+
+[[files]]
+file = ".fabric/processedMods/fabric-entity-events-v1-1.5.22+b3afc78b77-404b2e78a1e62e08.jar"
+hash = "f0e337d24345864713a841f3a96a7e300c58ae1fdb383f530b59a9894b01b676"
+
+[[files]]
+file = ".fabric/processedMods/fabric-events-interaction-v0-0.6+e91849a877-349b0d2c6f24d20d.jar"
+hash = "7a9f6a1ed29dc9e8ffe5da6192bda4bc0af0d34ce64696e6c73016dcda189e66"
+
+[[files]]
+file = ".fabric/processedMods/fabric-events-lifecycle-v0-0.2.6+df3654b377-3855ecc2d2d1957a.jar"
+hash = "d7936fa0bb237bb69149557c932754dba79491617d682071a72af5abde7feff8"
+
+[[files]]
+file = ".fabric/processedMods/fabric-game-rule-api-v1-1.0.39+ae9f657a77-414a18dd5b09e520.jar"
+hash = "d8f2df7f7d72b6819fa3129936edc0cd270b79076ac7183f6e83b2abda44bb21"
+
+[[files]]
+file = ".fabric/processedMods/fabric-item-api-v1-2.1.27+b3afc78b77-76d8e134280eded3.jar"
+hash = "4df56a515106c0bf6665647d2ea3b8c85d0c0b9948e9debac5fe9760b5042f7b"
+
+[[files]]
+file = ".fabric/processedMods/fabric-item-group-api-v1-4.0.11+d7b148e077-88c9d69409d74708.jar"
+hash = "2110575d4806a87f243cb5129bad6a2acfa071742e47d329fbc65223bdd7f034"
+
+[[files]]
+file = ".fabric/processedMods/fabric-lifecycle-events-v1-2.2.2+b3afc78b77-3792d0d4b63e847b.jar"
+hash = "f0335b52b3ddd8442ce14128ba12ed1f3bd6459abb730648e5c078ac05fc04ba"
+
+[[files]]
+file = ".fabric/processedMods/fabric-loot-api-v2-1.2.0+96dfa95977-54316f95a60bc61a.jar"
+hash = "5cba43f07cd1fe0c2002e5c172217d2dd97731b09a45a29138d9146988fb658b"
+
+[[files]]
+file = ".fabric/processedMods/fabric-loot-tables-v1-1.1.44+9e7660c677-98f6609ad12f94a2.jar"
+hash = "b5c5f4a7f24f6dcc027a1dbd6827968540e29e747b4736f05bded67e1bdb1aaa"
+
+[[files]]
+file = ".fabric/processedMods/fabric-message-api-v1-5.1.8+d7b148e077-97eef456f17fb27f.jar"
+hash = "8e69cde9b61c7dd78f57e3e55168ac458b9ce3d1eeedb4dc2db510c3cb131ef0"
+
+[[files]]
+file = ".fabric/processedMods/fabric-mining-level-api-v1-2.1.4+b3afc78b77-db18a052ccc088fb.jar"
+hash = "ab903b7c83ea071483a9a45265e31e7f57db9460915f33b23fcdaca31bc00964"
+
+[[files]]
+file = ".fabric/processedMods/fabric-networking-api-v1-1.3.10+eeb8eb3677-5f0732b3ac824797.jar"
+hash = "983a5145a3a28319570c5f803599f860275229e60c035838208f40ff91c36c16"
+
+[[files]]
+file = ".fabric/processedMods/fabric-networking-v0-0.3.50+df3654b377-99af6339b4b77526.jar"
+hash = "e4ade58a27639a82906f0e2ec5861cc20ea86c62dc3379128bbd6013c7eb14bf"
+
+[[files]]
+file = ".fabric/processedMods/fabric-object-builder-api-v1-11.+4ee0bc6077-f1b2ab0cbd5122f7.jar"
+hash = "58c122f7f03d9dfe696bb1292cb2633393bb4590ba2ebc0d4a3625cfa7891c2c"
+
+[[files]]
+file = ".fabric/processedMods/fabric-particles-v1-1.1.1+201a23a077-7e5b4b005938149a.jar"
+hash = "ad66296d234fd182467d38e2931b44ed0521f51c935aa694417da25be119f5a0"
+
+[[files]]
+file = ".fabric/processedMods/fabric-permissions-api-v0-0.1-SNAPSHOT-ac80c3433dc7a09f.jar"
+hash = "eafed55e6d2ee49c7be89bdc7378433521f65c3ca3100d43aaf50cfecd48ec77"
+
+[[files]]
+file = ".fabric/processedMods/fabric-recipe-api-v1-1.0.20+b3afc78b77-833d80db8bf39b45.jar"
+hash = "857092af79556bc67c541bc9f9a99eadf4c0a073065d5f58d6361512f4f76e64"
+
+[[files]]
+file = ".fabric/processedMods/fabric-registry-sync-v0-2.3.2+4df89eb277-3830ec6d52dbef83.jar"
+hash = "27210380a68102a1d71dd6bacf191ad5f48a90ce3973e7417e52d6392e995ce3"
+
+[[files]]
+file = ".fabric/processedMods/fabric-rendering-data-attachment+92a0d36777-d723b8a3552a92c0.jar"
+hash = "0350630ef4267852a8427961c4dac6ec0b744734dd451b90ab2b9f4cc6bea759"
+
+[[files]]
+file = ".fabric/processedMods/fabric-rendering-fluids-v1-3.0.2+b3afc78b77-4dd7962e878f83fa.jar"
+hash = "a3bc5d20a1d8035e4d155ef8aae9edf8f793701b9779e5e34d5995202e00d2c4"
+
+[[files]]
+file = ".fabric/processedMods/fabric-resource-conditions-api-v+29de845d77-c081c44ad52298ca.jar"
+hash = "355802285ad49650f312021085ab67d6b3f44dcb5cae84b614e5a479190bc5f0"
+
+[[files]]
+file = ".fabric/processedMods/fabric-resource-loader-v0-0.11.9+132c48c177-8ed43f80c849b0b4.jar"
+hash = "0dc43f9c65ab17514be4bcfbea2839330cb2658da9ac252f3322a2f3afb27369"
+
+[[files]]
+file = ".fabric/processedMods/fabric-screen-handler-api-v1-1.3+b3afc78b77-b9c3dfa5968b539d.jar"
+hash = "0a956226e142663846d9a5299e5a255be83f09309b7e4b9773db1dee99fbc942"
+
+[[files]]
+file = ".fabric/processedMods/fabric-transfer-api-v1-3.3.3+c81d263177-b6ab590a5b70cd3e.jar"
+hash = "19d586cb837c3eb1598093081d5409792778eb9a27bb7ebfc5bf2eb4f6e088f2"
+
+[[files]]
+file = ".fabric/processedMods/fabric-transitive-access-widener+6c31357e77-93d3d13fdec71cee.jar"
+hash = "f8dc2300a1ac3650095c689185b0fd50f445ffd95342dc6b6c4f7bbb09d035a4"
+
+[[files]]
+file = ".fabric/processedMods/graphlib-1.4.0+1.20-ef8cca81f2fce21.jar"
+hash = "190b26fe6c6af60b951de2c4765106e95551dc7f3ff6ed6ceb4e05b0866355a8"
+
+[[files]]
+file = ".fabric/processedMods/io_determann_shadow-api-17-0.1.1-9b4a46fbbf51f21.jar"
+hash = "9a9b4194092be6f6fb598650e7cd4d6a710d083c140dada9e1686b1c56187e61"
+
+[[files]]
+file = ".fabric/processedMods/libnetworkstack-0.10.0-e165339157038757.jar"
+hash = "cbf05a1753b27564a3d356e68d706c2c156a244da943945ab8c29a6199f29f34"
+
+[[files]]
+file = ".fabric/processedMods/milk-1.2.60-bac1f6d7c364f8e9.jar"
+hash = "00009c06f11593662646335cb7ca7eeae4fcb9063d23c4c6f0248d7ff696e268"
+
+[[files]]
+file = ".fabric/processedMods/mixinextras-0.3.2-f9ae6eeeafe4ec19.jar"
+hash = "31a3ea710fcf8da5ab9fc9a3f7d2f3d6013e8203e7731650fa432091cdfd0180"
+
+[[files]]
+file = ".fabric/processedMods/mixinsquared-0.1.1-fe6bfbac9a4fd7f.jar"
+hash = "e37018cf661e8daef4a70b662142254855f4d0436bbed925db16c4b39cd60fe5"
+
+[[files]]
+file = ".fabric/processedMods/mm-2.3-dea3eead7ecec716.jar"
+hash = "116a1e5045333a7485cd6f7df868d1901d9c50f5d5bb6f2bf40337816d01892e"
+
+[[files]]
+file = ".fabric/processedMods/net_fabricmc_javapoet-0.1.0-5128b19a6c17b43c.jar"
+hash = "6d4f09faf8b97d082579c9b2654b49d915132634db0ef1ac772674244b803813"
+
+[[files]]
+file = ".fabric/processedMods/net_minecraftforge_eventbus-6.0.3-53810f3697158875.jar"
+hash = "840b370ff4114d79a39f9832ee1fc02021aa54578c86608061c92a42059807fd"
+
+[[files]]
+file = ".fabric/processedMods/org_apache_commons_commons-compress-1.22-249d3c773b801d4c.jar"
+hash = "b82a7fe5d0678e790b13eac5f594cc3aa3cace81e429bd6014185aa4a8952dbb"
+
+[[files]]
+file = ".fabric/processedMods/org_javassist_javassist-3.29.2-GA-edb4cab1bc004790.jar"
+hash = "28736e814bd4e36a543f3af891d43f6d8aec63d34c4ad301c07adc87328a7131"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlin_kotlin-reflect-1.9.22-31a4e90f50aae4f5.jar"
+hash = "025e7303896abe44f13802cb8c5d6a78f4fb891f5cab32bc490db1fbbdf5db87"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-1.9.22-15d961094529a964.jar"
+hash = "954494dbf818f915bc8ae0e5df87250e8bbe63da29fda35ba02f4751d3c167c7"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk7-1.9.22-e518750f67b56da3.jar"
+hash = "60a5448a0345e6fd5b381c6c7284a68a1ebacea2ee3f812eb00592d2094d67ad"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk8-1.9.22-b02b9a9616689a25.jar"
+hash = "e4226a7054a2128f11f2cf085c2119a00d32a11e9775dc67880e2c2fa1f22403"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlinx_atomicfu-jvm-0.23.1-942c76f165554262.jar"
+hash = "3da7b7579a0e3d7bd264d17a924f886bd4ad98a5c9fc9b65feb0b84de226fb76"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-co-jdk8-1.7.3-76ccc31aa82970e6.jar"
+hash = "a71bd7f2ff68242c6a4a555c748981c089f6c224cd13e592ce269908f5320621"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-coe-jvm-1.7.3-ae0eac1795967cd7.jar"
+hash = "4ec7bdbac71c6e6239fc60daa6a2b135197b499cf2142e2588579a1c921ec405"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-dae-jvm-0.5.0-a6bd4aee2c76e0bc.jar"
+hash = "aa7645521fd2930a75073358be9da30ebb9299a75b0f3e4f9e929176a4a33ace"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-see-jvm-1.6.2-d5203682a92600d9.jar"
+hash = "4b73ff7801c62c61c75120a19994dbd289fb78a4a382ad0e1b1e4bd4f3737548"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-sen-jvm-1.6.2-f395c4e1c18f8907.jar"
+hash = "25702c38e7aed18533d5c5fcb6ec1fea2063a84aa31e51eb079b91ca716fddbb"
+
+[[files]]
+file = ".fabric/processedMods/org_jetbrains_kotlinx_kotlinx-seor-jvm-1.6.2-cc7ea0a00a20cbd.jar"
+hash = "0583a5bdee7d79fd86968a9147679799702ba100676b92c7321e4913f513935a"
+
+[[files]]
+file = ".fabric/processedMods/org_quiltmc_parsers_gson-0.2.1-3895219d86ede09d.jar"
+hash = "3965fda74895aec7fb345e1d906f756f01c55ac338588cbb28fff30795d98ff2"
+
+[[files]]
+file = ".fabric/processedMods/org_quiltmc_parsers_json-0.2.1-8add4795004e42b7.jar"
+hash = "263e2324526a717b2acf6407e485baa78dbbe8a153967780d2666009399dc6e0"
+
+[[files]]
+file = ".fabric/processedMods/org_reflections_reflections-0.10.2-da482094acb0d861.jar"
+hash = "e9f0aa8497ed8fef1e3aeabebdb9f7f42772c1d3f1a48588e0a01d3d9d1fdda3"
+
+[[files]]
+file = ".fabric/processedMods/org_tukaani_xz-1.9-64350d73c4e16302.jar"
+hash = "80c5b452a1d2cdea4f706d0fc79f163d4aa3a239ecdb07d2a0f431ad93519a8f"
+
+[[files]]
+file = ".fabric/processedMods/polymer-registry-sync-manipulato-0.5.0+1.20-d33cb229385b8e20.jar"
+hash = "1264e9753f440781fd5430e789fb314363a6f14c876bf08ebb3be97cfe842a4d"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_accessors-2.1.1127+1.20-943181ac3693cd2d.jar"
+hash = "85d03904e12fe17f71d8ec2db33d029bab07cf6b0f1a8360444744ab5b48fdb3"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_attributes-2.1.1127+1.20-8aea2b4d129eef94.jar"
+hash = "325919357febc913d73d27c2c0833378c182f83e689350c96fda985324a20c47"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_base-2.1.1127+1.20-ea6282156cba7170.jar"
+hash = "77857c934283fcc8eeaa52f21b66923a6812c8f4e96cc9c5431782f8a129a0d1"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_brewing-2.1.1127+1.20-1a6465c5386ea628.jar"
+hash = "fa8474b3f496ce84a7df24912eefaed15a10f90c409ca39495826bf340f33195"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_client_events-2.1.1127+1.20-b603124742a0a0a6.jar"
+hash = "7eebd4afae46d6ac855d06c35b7b759a75d7cf4c70463e09db3f7608b4f6f4d9"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_common-2.1.1127+1.20-fc247c9ac76c819d.jar"
+hash = "471d35ffb569b8e08050bded892259204651f9c9bb40d9d38f577b67df74093c"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_core-2.1.1127+1.20-d05458d4ae3677d.jar"
+hash = "26691af5fb89dc4ed10803c8d4c6300ef5fb2a91d9c7a5138e3d848842c8a4be"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_data-2.1.1090+1.20-add99a2cf06090c0.jar"
+hash = "f29eed009debdd3ced0c0d23f537b8216292dbeae7980753700647f97358f1bd"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_entity-2.1.1127+1.20-fb24e5b47219a943.jar"
+hash = "b617a9ce81041058e92e43abd520671dbddc26d3b2b135c62148ad287e9e1ec3"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_extensions-2.1.1127+1.20-96ea100a5c5dbc32.jar"
+hash = "521322e2f1a3174b58ab025aefbfb502ca22bafb0c4d7f62198439e5c1b44fa9"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_fake_players-2.1.1127+1.20-6a011ad64e55b54d.jar"
+hash = "b3fd09b8f80203396ca199f01d3e8c7871e33a74e0a3a9f7a6571d4f3eea1ca5"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_gametest-2.1.1127+1.20-d1de7fe5413b4a7c.jar"
+hash = "ac8a51355bcceb84953c8a100bfee3c25a555c3f59308c8cc5206beb4ea645bb"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_lazy_registration-2.1.1127+1.20-17e3bef5d0018157.jar"
+hash = "dbeb0552a0ba5c450bb2b51e5d557fa490ad6613c2a08c81d22a6bb830368be4"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_mixin_extensions-2.1.1127+1.20-42f500a072e88a94.jar"
+hash = "9a4bdef5390fb065bded6de6164ccd91cfb89dc4d6d9b514141d8e83e74a3016"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_model_generators-2.1.1090+1.20-1670514f335f5a1d.jar"
+hash = "64d3b78cad5b537baf434a38235199656dc6474bbb77552edfcb2773862fd09c"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_model_loader-2.1.1127+1.20-da5fec2f731414f0.jar"
+hash = "0d391e0de95bf6a81f88d28b0e339ead00da6fbe75a8027b443943e7391bd28e"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_model_materials-2.1.1090+1.20-c505da5b5485ee12.jar"
+hash = "037e380f0302af8dec22aa23e242dde00fbda2c357984a6f95d613331fd5c217"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_models-2.1.1127+1.20-94586d95bbeeb2d5.jar"
+hash = "336d7db0d6282e37566c6af4aafefc2f70a7d91d762780769235df14054305bd"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_networking-2.1.1127+1.20-cd714c2e331bd7b3.jar"
+hash = "d77d7c6e39b7d18d227c30fd4eb968d8c1500800427d08f56eb7292362fe0cd9"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_obj_loader-2.1.1127+1.20-83f3abc8c90b9570.jar"
+hash = "8ec42baad56467e6714765f1dae81156bbe86fde2611506e614fd4b8cc05a450"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_tags-3.0-9b82a503c6adc004.jar"
+hash = "d385f7761ce4e69b0f537223164a3659a07a6132bb63908f519403ac12153a31"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_tool_actions-2.1.1127+1.20-f59d973a15c5f6c2.jar"
+hash = "b02178d5344d6c03ecb697928934dfa8289d7f1e47be39b1ed26ee9099612c89"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_transfer-2.1.1127+1.20-8ed4eeb43eebd1a4.jar"
+hash = "da527fb2ed352f735b53d3e5c80647c3fa88f1e3c01ecbcfa3a333dbe22ea427"
+
+[[files]]
+file = ".fabric/processedMods/porting_lib_utility-2.1.1127+1.20-84249d40cbba03ae.jar"
+hash = "86a0652b24bc93ca5dcaaafc9c7f7495063fbde6e01253c8128628b71f43a2b5"
+
+[[files]]
+file = ".fabric/processedMods/puzzlesaccessapi-8.0.7-57085fa8422a39a3.jar"
+hash = "f92e15c0490d5b7e390bc6b98261743b9d85d3d550f76d7bab3b495144f68771"
+
+[[files]]
+file = ".fabric/processedMods/reach-entity-attributes-2.4.0-8689dab4db96867e.jar"
+hash = "d16ea037da90cb788e34ca192d10e412b9b52be7508934728b591a7ef83d6303"
+
+[[files]]
+file = ".fabric/processedMods/registrate-fabric-1.3.62-MC1.20.1-ee112783731be492.jar"
+hash = "52e86157d0d49e0e6207cf7bc0b0dabb63373e860b2a5e53408b64fab9914074"
+
+[[files]]
+file = ".fabric/processedMods/stacc-1.7.0-c642135d2f1d2106.jar"
+hash = "27094c55f412b05377f8e060e39754d8821e382da6b45f9d0005dbb09b7894a9"
+
+[[files]]
+file = ".fabric/processedMods/team_reborn_energy-3.0.0-55918327dadd95ee.jar"
+hash = "fa90c3e7bfd5f17ba60981e57c5b965d3618ebc6c512fd3b5947920e9cb81aef"
+
+[[files]]
+file = ".fabric/processedMods/terraform-biome-remapper-api-v1-7.0.3-49083fa88023e516.jar"
+hash = "9404a05488191fd5686d17dad75edb47525a4a8a0b59acf557b78cf66d1c427e"
+
+[[files]]
+file = ".fabric/processedMods/terraform-shapes-api-v1-7.0.3-c0d3391a0dd71a37.jar"
+hash = "497177b001903f9984059be3e58ddcd37b09449806b86d6e51b9278e6baa5d04"
+
+[[files]]
+file = ".fabric/processedMods/terraform-surfaces-api-v1-7.0.3-2a6832e6d8a8d679.jar"
+hash = "4fdfc8e1dd49e505efc5f8da59a94b639269a5c6b5c34972638008b28c4873c2"
+
+[[files]]
+file = ".fabric/processedMods/terraform-wood-api-v1-7.0.3-8c65a6de55f326c4.jar"
+hash = "9c409c80991ebc7f5238d0046da35eedb552f5c95d23afd4c3492e4a7f6bf19c"
+
+[[files]]
+file = ".fabric/remappedJars/minecraft-1.20.1-0.15.3/server-intermediary.jar"
+hash = "4d0b240be8a10932eca0030858a58f01d657f58a23452d091a3d7d5ba218796c"
+
+[[files]]
+file = ".fabric/server/1.20.1-server.jar"
+hash = "3af73a9dc5a102e38147946360dd27d4d70bae7055bf91cf2151cd5d121b79e0"
+
+[[files]]
+file = ".fabric/server/fabric-loader-server-0.15.3-minecraft-1.20.1.jar"
+hash = "7a7f0a6f2f0387f968cad5428465ea622a11d5998ef6c2a06f5e68879f797307"
+
+[[files]]
+file = ".mixin.out/class/net/minecraft/class_1309.class"
+hash = "bccaed08a80215bc51b4bcc79f6a0f3378c2e0ce7599bd6a3e34e41e2181e851"
+
+[[files]]
+file = "backup/world/2024.01.19_17-13-58#shutdown.zip"
+hash = "b230afafd682de3f76af6c8ca080b467cdbbd36de6755e8826e67af23726497b"
+
+[[files]]
+file = "backup/world/2024.01.19_17-52-01#shutdown.zip"
+hash = "bba1af70e4ce2cba8b2f0e41763f553d5d111c246b71a8b9c38dfd4985c2e5ec"
+
+[[files]]
+file = "backup/world/2024.01.19_18-01-11#shutdown.zip"
+hash = "4c156a40521578683ef0347c838a40215a642369a4252c54bc473e1ba418aacb"
+
+[[files]]
+file = "banned-ips.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "banned-players.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/Adorn.json5"
+hash = "9d13a28605e1942964ef7e88873d79bb6eed271c3dbd9e01c79443308beeb177"
+
+[[files]]
+file = "config/EmiLootConfig_v1.json"
+hash = "549a01a4183ce775ff7e3972a31372ce272a2c7d82a563d73053c258c5749eff"
+
+[[files]]
+file = "config/ImmersiveAtmosphere.json"
+hash = "2c20dc6f9600742a4ad813284a9322eed5085e980066288759645874af2e997f"
+
+[[files]]
+file = "config/ModernUI/bootstrap.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "8d0eff465ba2bba569ec59ed5d6bc5d0cfa321447b4a6886754da1099c96ad37"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "d46e23cf65bc0922932ba584e500d843e41470367a9fcb24eec796080152954c"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "33511d8a9e0a44dfc1e63660642bafffcb63aa00191d1f6d31b31ca6a28bc0c3"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/balm-common.out.toml"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "411b3a2b814e30adfff46ba7c0e688c554028fd9f5887514b29eda9807399fd1"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
+file = "config/betteranimationscollection-client.toml"
+hash = "7a84bae0def951eb355f2125ccaa339ec1b5c7100246c2656fbaa84b754a2cec"
+
+[[files]]
+file = "config/betterclouds-v1.json"
+hash = "542473981a6f6adbeed7e1e37e61e7fd40699fb8fdd47c99b1aed494ac5e81e2"
+
+[[files]]
+file = "config/betterdeserttemples-fabric-1_20.toml"
+hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/README.txt"
+hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/armorstands.json"
+hash = "5667fef777b3edb5ccfaa6f3ddcdd6d3627306a3deba85ae99ef2e24bc5945ab"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/itemframes.json"
+hash = "765c83d5593958aada962a03caa65bc80bf66ac1d28e118896d24d2bbd0d9c40"
+
+[[files]]
+file = "config/betterdungeons-fabric-1_20.toml"
+hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "8733ec00f680c809714f3c785e1f6282452b8546a87be3604c237ce27fdd9c30"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betterfortresses-fabric-1_20.toml"
+hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+hash = "a4e97263d2f099fcbc3fd7646c85c562e1eb7659bfa5ff66b11f76afaa2f9c06"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_20/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_20/itemframes.json"
+hash = "4d3237bc1dda7a4b21958ffb2a2567e413bf92ab991e9d72d9a412c574d77fac"
+
+[[files]]
+file = "config/betterjungletemples-fabric-1_20.toml"
+hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
+
+[[files]]
+file = "config/bettermineshafts-fabric-1_20.toml"
+hash = "d486f4672659b59f9a855d9ebce345d8a983c504d24b99613ce280db657c40f5"
+
+[[files]]
+file = "config/betteroceanmonuments-fabric-1_20.toml"
+hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
+
+[[files]]
+file = "config/betterwitchhuts-fabric-1_20.toml"
+hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
+
+[[files]]
+file = "config/biome_replacer.properties"
+hash = "796ee1364e5790c3545eddabd680dced63f774c987498b4383b14a4c52423cd6"
+
+[[files]]
+file = "config/biomemakeover.json"
+hash = "2f6127f72aaa52dbbbdcef9a424267e7c6e32f2b4a39f3832af423a31d343b4e"
+
+[[files]]
+file = "config/blendium/blendium.json"
+hash = "80c3fd0d6acbde2a4533b63aef624f35a2634a614c8e65b3c2b7802d74d098f5"
+
+[[files]]
+file = "config/blur.json"
+hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
+
+[[files]]
+file = "config/bodiesbodies.json"
+hash = "f633f494eeaa8fe0f226d067fbdef25cfdebd9db29e065d7cdbb674b5db35db8"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/charmonium-client.toml"
+hash = "e1c0dac742a27ca9009df16e32107736019e94982a3bab9ae2caf9382d4b60b3"
+
+[[files]]
+file = "config/charmony-common.toml"
+hash = "6d9552afbbbd9d17ec08b1d34b78ea4ab090e02b944fbcc82c6b76950a9f2e09"
+
+[[files]]
+file = "config/chunkloaders-common.toml"
+hash = "32d00ef84a71f82450eb463bdb0c7f977d6fadda7acd631023cfd3479c90439b"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "bac2964c41558fc15f457ab32a1b0b82126f3e4c80d75602672ef4de8905534b"
+
+[[files]]
+file = "config/cinderscapes.json"
+hash = "baa611cf438ebc9eaf7c963c4201e48339d4f759d8a76bf6b487c3406a201292"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "5f9c62238ce93af33ef959a2cd76e44fa36be3f6d3dc465d5a63cdef813bdbbb"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "67a4b28d3177be45dd4a8dd8f21ba829b9f558fda901028d2ec69dc913b22412"
+
+[[files]]
+file = "config/cristellib/minecraftED.json5"
+hash = "cd132693b050fac520e75011d1549d37b0de47bc22115c1c33258b5c0651b6e3"
+
+[[files]]
+file = "config/cristellib/minecraftP.json5"
+hash = "8fe09b83f2fe6bf9d547e99b8d883aef42bf3d9e2e6f5bd43ec3fcd4c7f756da"
+
+[[files]]
+file = "config/deathlog.json5"
+hash = "91dd913b34ee1fdfc426bb48ed5fa3f38265d0b471d50252916c2a79b00ab289"
+
+[[files]]
+file = "config/debugify-descriptions.json"
+hash = "9e0a3e50d3354d8f812dee6fdc146dd863a44be50fad55950abd2224a963d15f"
+
+[[files]]
+file = "config/debugify.json"
+hash = "ff8b7bdb8258a3834793105a279060d98798a8c7adf9d4532059782680d545db"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "6f5f56a078e1d0c8893b8e5d9bd0c1da9a7afbcb8f851528188e9267422da96a"
+
+[[files]]
+file = "config/doapi/recipebook.json5"
+hash = "e79155bb3698c317bea2c3daf5ff66d85f3431e2a2563e5dac06f9093218395b"
+
+[[files]]
+file = "config/easyanvils-client.toml"
+hash = "fff4210e9ad19b4bab956b748ffc7ed0a580aeb0b78dee2e8254e335f707c74d"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "55e2cfd8f46d66731b531bc7a768332098898627764a339213b26b2c04e4fd5b"
+
+[[files]]
+file = "config/easymagic-client.toml"
+hash = "d4c4a2f004d4990058e1437eac0f9be2fa984d47619adf1c455461eb1e353966"
+
+[[files]]
+file = "config/easymagic-server.toml"
+hash = "b5b4774de9cdf5168b8219feab227b3de1c0816fef1832388cf5254fea9be789"
+
+[[files]]
+file = "config/elytra_trims.json"
+hash = "f9468334b2608e12e78f359ed6fe2886bf3fd1ebb8c30d1124e834f3d8f5912b"
+
+[[files]]
+file = "config/emi.css"
+hash = "88066f682b5a960a954b55b227803e72e47a3b04a4da9624b90cd73e69ff8742"
+
+[[files]]
+file = "config/endrem.json"
+hash = "c04433d81706cf5c4ef543f636afd7353026dbac28a355d842062f68da1de223"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/expanded_ecosphere/config.json5"
+hash = "0a1a233c018282e6cde0ff011e7d7ecf6cd97025b69d48cefb9c14df568dd186"
+
+[[files]]
+file = "config/expanded_ecosphere/replace_biomes.json5"
+hash = "d26f38c0b743644dcc7191b54563abb3b73500b8e542bc32d71a5eea7904f7ca"
+
+[[files]]
+file = "config/extended_drawers.json"
+hash = "1cf63ae8412362a7f325f7177d8010aaec6404f51afab1dd8e9b93466750102f"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "c5561e8612d8e116a9085f3688acb4e178c5ac88d0d3c35189649d8e6e884aad"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "67c463bf41883668c170ec154c90ed2a21adba56cec3090e855102e991bc58b2"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "6a26f2115a15080115b4ee1ddb73cb8d12bad45ef3c482f1318de2c71131d10c"
+
+[[files]]
+file = "config/farmersdelight.json"
+hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/flywheel.json"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "300b866a6251887cbd30b18438e123b2fa524315edbf8e2996a01acb4ecac91e"
+
+[[files]]
+file = "config/fpsreducer.json"
+hash = "b5ec902f480d0237607e75a469fa700594296045d89f9ddef790c54783b070e7"
+
+[[files]]
+file = "config/frostiful.json"
+hash = "490ec0d0a0a9d0e744c39db9a073c89c1e6b1c79e4123b8c06e405b7152477d6"
+
+[[files]]
+file = "config/frozenlib.json5"
+hash = "a277ba48997d34e35813519cd591b9ff563713a6e13ee4d09b9d910031e068c1"
+
+[[files]]
+file = "config/greencuts.conf"
+hash = "2ec3e555cac93d00288e40a69fc007dd22076ff9a2840ddf0fc8cced82c74282"
+
+[[files]]
+file = "config/harvestwithease-common.toml"
+hash = "af2eff73f18d3666b3a2d8c0afe92fa09650f8c2d4e42667561e52b766298fe8"
+
+[[files]]
+file = "config/iammusicplayer.toml"
+hash = "f27f9d937499a901d294520d69889ac3e6875e32b40c7085a8c4cf0fdb64a592"
+
+[[files]]
+file = "config/illagerinvasion-server.toml"
+hash = "0fbaff6f5c0561ef7d2d8eee37e55c832026a4a9fb6cbc09646dd0024515c115"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+
+[[files]]
+file = "config/immersive-thunder-config.json5"
+hash = "04588f09242cfab4399f33126e56a4619e32946ef60e8ab8779409c50090224d"
+
+[[files]]
+file = "config/impactfulweather-client.toml"
+hash = "01f5b714da3d1376bfd07c9d78667bccd411b5f8a2256dff56b08c4065bb986b"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "9a6435cb9ffc7ab36ccb560c5b8f40aaf737402257747122ec048bc230bb8e51"
+
+[[files]]
+file = "config/inventorymanagement.toml"
+hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
+
+[[files]]
+file = "config/iris.properties"
+hash = "c09762a4378a69d1c2679c022db497fcda564b228f8d9892d5f3e53bb886f3ef"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "77988e32fc0dd347d8343d31c4315766d6f0d424d54308e0189ca205a83788a3"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "5de690ad13963a26288573e449216565db58717bef7e981ee2b1aabc424e74c4"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "c36d7c65c3096691185ecf922a8b493a10b7d9b76389fce3720cddfa5c88eaa5"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "3a05db839f81af2db76a1c88374c3768dd98f38298186ef097692252021d9718"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "02755a18988318fc8c65f08e6785ea84d086102247b81ac9ab3b46c8cde504a8"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "d46267668fc6c2e5662f2ec0069957fba30dbdd29e50e67d589b8d99f527fce4"
+
+[[files]]
+file = "config/kiwi-client.yaml"
+hash = "f31c4b956a53df44ee2e25292daae1ea82b7977b3295851060bef003c2f9d490"
+
+[[files]]
+file = "config/kiwi-common.yaml"
+hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "bc32d3bda40f227e629b10903f7e264d9f79975aa62b6441a940d4521b6049ee"
+
+[[files]]
+file = "config/leahs-immersive-thunder.toml"
+hash = "a120d448e40dbd9f63f660539b0cefb7ab3519a49a89c88e6be615fdaa363d36"
+
+[[files]]
+file = "config/libnetworkstack.txt"
+hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "f5c9519cf68b01a770080dd72a778c2f330acc2e7516c2d5fff13aff48dd850b"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "dc47815fe5382d353616c50d9a3ea33d3dd40a040666f3b9bb7cd2eb52d34bb2"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "767d3e6666fa1b7ccece6fa96a7c1c01b53a6f0fa88c5a33028535919086e374"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "d4eda1f93e74a1d2619a55b400d37483cb238597e6fb1c0965227a8e154c8afc"
+
+[[files]]
+file = "config/moonlight-client.json"
+hash = "f1c8df5ae2439e69a736a48592d1486a09380d6c70ca69f020f7adcff9d09515"
+
+[[files]]
+file = "config/naturalist.json"
+hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
+
+[[files]]
+file = "config/noindium.json"
+hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"
+
+[[files]]
+file = "config/not-just-biomes.json"
+hash = "262de4fb4dedf177be5962236a4c88f710a1d8c0d8bb5c4bd510e655dac7ab6d"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "1ce156edd13da83bb8674fe0e9b91cbbdc3a4028baf7bea2bbaec2194412bfdd"
+
+[[files]]
+file = "config/notes.json"
+hash = "1c79ad331263b4bb37535450a040cf2998a98f23b3deb6592dee1e654f2e28a3"
+
+[[files]]
+file = "config/numismatic-overhaul.json5"
+hash = "fd7852261adcb830dc2d036aaf036e40fb862a3752ae0d2a86832e4c4ba1062d"
+
+[[files]]
+file = "config/otyacraftengine/client.toml"
+hash = "296562f31498578124f780431b54e94e722a5a4d9dd3c1453630dd23391ad700"
+
+[[files]]
+file = "config/otyacraftengine/client_debug.toml"
+hash = "8f050b5467f258f0b89aac2ccb8149607d9d194ecc0836e701ee1be796084541"
+
+[[files]]
+file = "config/ping-wheel.json"
+hash = "20479fe338392ef760d76f9f05063085111cead593dccea81aa55133297add4d"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "6cffea1c20852a079342429a0f223fcc45993a51596c4736e0fe1910c3fcba52"
+
+[[files]]
+file = "config/promenade/animals.json"
+hash = "a261533025ec0562fad9ea746f6257354f746a513c218a2a466b9917cec3edda"
+
+[[files]]
+file = "config/promenade/biomes.json"
+hash = "eab77da97d597534d1e930f52ad6a5de717e0d63fb3ac815658494d470e77030"
+
+[[files]]
+file = "config/promenade/monsters.json"
+hash = "e3275773d505428747891fad0ed170d6a1889130157acecafd66d7ebb52ff83a"
+
+[[files]]
+file = "config/promenade/world_features.json"
+hash = "5f7ee261d8eadd71bcbe465d60df130401510186b3ad9e02cb98fe7d5062b901"
+
+[[files]]
+file = "config/railways-client.toml"
+hash = "eb5532f48ea4977ae8301feb54d5b8c57597c71145ffc1bae847c250b093ed91"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
+
+[[files]]
+file = "config/railways-server.toml"
+hash = "af958b4c9994c2668094fa8d8476e5405110c6a7d7011dd81b63a52f8169464f"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "ba023dd02e9966b3a0fa6ab9b09ff547933c848ae67042995134c2b224fd8cbc"
+
+[[files]]
+file = "config/resourcify.json"
+hash = "0a4e123f72b810045ce2548209d818d4bfb9222f381a90b07b41104cd1608236"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "239b9ed3cbff30cebb7237e0fee8a931918f0c6b12bb9b651f56cb8bffd57069"
+
+[[files]]
+file = "config/saplanting.json"
+hash = "88f771d3cf313a6f72dc7e6e45d46ad2d7217e4c97b79d567cdbae4a05f73580"
+
+[[files]]
+file = "config/seasons.json"
+hash = "73906db738c203c7b01043a1a3b01df6a2d48eb3444ce604234a6dca33a682c4"
+
+[[files]]
+file = "config/serverapi.conf"
+hash = "4c2a09b4fdace09277060bb4adef0c81834c5c6d0d0aea0c3e4bb16be7c1a87e"
+
+[[files]]
+file = "config/sliceanddice-client.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/sliceanddice-common.toml"
+hash = "008d5f4eb56b1bff2947d7f624a69e6909751819636188bc1163d4cdb299f736"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "703b160265fb9f8418982052d7f147263ef14ac6cacdba4b7f7295cc3306e499"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "971377be330405b5950f878070f62150cf71463ecccfd0419bda98513cd3b19d"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "273dcdd3a0b416b1166e85355078cf3620f905485d897f29fcad701a68d9a2b2"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "4901cf4fc18c2841e0e0535cc6f14124aff95a26a871a0c17605778d74d7c6ec"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "97e56295175e5aa7c757ed4b1e09a942c6cb8509548c75602187ff3076a29487"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "f58665f72b1c10a008902b8ce40b845487cdd66f839559b0777f78221605604a"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spoiledz.json5"
+hash = "61f6d55898b8e1b66d7f7d581919fc66e6b66d1e387401887d01f7e74a07351d"
+
+[[files]]
+file = "config/supplementaries-client.json"
+hash = "593e516293248fc70e9488134e3a1ea2740df8996bc188943d66584900dcb383"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "58f545ad305803d707edc9065bf83af6fb2b999e51b4131d5ab4ea6949b71973"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "cd5428966b529748e9ba8785cf7a01d19db50ddb3f7f257226baed6defc54af5"
+
+[[files]]
+file = "config/textile_backup.json5"
+hash = "030a83dbdb1909ac4e4d0b5773092ec39ced48378696981a70f2f47e45b14f39"
+
+[[files]]
+file = "config/thermoo.json"
+hash = "c587d1bf6b8af4605d9435f599baebcba0a8905eeda85e0cc435c398bc1eaec6"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "f8eaa7335e212c026b51f0ece3cc0725407f0df35f47b67ba0a1e37435d5cd6c"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "1f6cddbcb2d89fbcc774d7bdae9987ccb031ba8fe024307357076ca617b17eeb"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "7c0358b873133c8ce0882c5b1971ecba655a7996e6d0e53ef9ab313e33181d53"
+
+[[files]]
+file = "config/vinery/config.json5"
+hash = "4c162bfa153ff198c8f52df6e16e7697e26669cb3e9ba6f9e644a23f6af87762"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "707f71ed86026462e61f3b53766c84d2a2c262103e841e211b9a5184379cee93"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "37ca7a6562a34968ef1203f902959ee08638b861a7421fad2462ff1181d26aa0"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "a6ccb920ca8ab499dc44fe0b955c9eb976d51b320c037f7ef425b568fd387056"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "774de88985cdf753a66ddc0a01eaed48936ec2b3cdec19d8e816fcd01268aee3"
+
+[[files]]
+file = "config/wakes.json"
+hash = "ee62bea0c8abfd0aaf3c829e7a9e2556cd422d78789dead1a1f57d83963430c3"
+
+[[files]]
+file = "config/waterdripsound.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/wilderwild/block.json5"
+hash = "ede80bf9e5b882d1018929bc37d6991e7430d33879c9f2df096f828b2cc0de77"
+
+[[files]]
+file = "config/wilderwild/entity.json5"
+hash = "f688979c19ddb69e54183e6b422c8506a196545178c40e173333c76a4b22f84b"
+
+[[files]]
+file = "config/wilderwild/item.json5"
+hash = "3f6b072ba698ca30bad281568c1d1a6acf8346366bada39c4cc3e113173ba235"
+
+[[files]]
+file = "config/wilderwild/misc.json5"
+hash = "7544269ac46bd4e8ae80f2fc4f5631b9a6065c420e2e4da84d7a95f8c97aec41"
+
+[[files]]
+file = "config/wilderwild/mixins.json5"
+hash = "34fb16a12b98ca3c288291e372567048cd31e7ef2522cc77bf8c00a3c532ef2f"
+
+[[files]]
+file = "config/wilderwild/worldgen.json5"
+hash = "27f620e131ecc0b7a0e229ab0c3392080f0569903dff227b88527470e8f806ca"
+
+[[files]]
+file = "config/wwoo/replace_biomes.json5"
+hash = "dcfd8829c21289017c3fd6fc3fb7c06829630b309bd9e09cf45ebe978389925f"
+
+[[files]]
+file = "config/wwoo/wwoo.json5"
+hash = "c16a9a17d558a28743678be223092eb071fb8b522748ab788cacd1d8518d5ab8"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "4df9458eabe3b6eb53e81961ea3dc79174297c412aeba00713b269a2a65334d3"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "13e94e2d137c254502bc76a72b930daf378c884ecd1fa4b00b6baf0e80663c23"
+
+[[files]]
+file = "deaths/8bf2f047-979d-433a-8f61-598edc6f4819.dat"
+hash = "8232ef05a6d05dafaeadf42a5f300a61bb69dd04c91211ac51241784e807c527"
+
+[[files]]
+file = "eula.txt"
+hash = "26eb6d4e3e4ce6fd4f908ab3aa412cd94e1446d853067688f0e0b4352b2935d1"
+
+[[files]]
+file = "fabric-server-mc.1.20.1-loader.0.15.3-launcher.1.0.0.jar"
+hash = "8bb4665a7f43db8c4bcd09fbdd0952b2e9a8941260bbebac47d1ba4941c2dbf9"
+
+[[files]]
+file = "libraries/com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar"
+hash = "efbca93df18f3eb16964a92d8342f0674dd5d90da575ef8e04ef2e4eabec6910"
+
+[[files]]
+file = "libraries/com/google/code/gson/gson/2.10/gson-2.10.jar"
+hash = "0cdd163ce3598a20fc04eee71b140b24f6f2a3b35f0a499dbbdd9852e83fbfaf"
+
+[[files]]
+file = "libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+hash = "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26"
+
+[[files]]
+file = "libraries/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar"
+hash = "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab"
+
+[[files]]
+file = "libraries/com/mojang/authlib/4.0.43/authlib-4.0.43.jar"
+hash = "697043d19e0b84b04f011dbec1bec3d80c04d8c468e7e4c6b221c0183bc1c0ef"
+
+[[files]]
+file = "libraries/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar"
+hash = "cf65afa612fffbe4dc976115dac0312f48b9c84b3ddaf58bec8018a9454440d7"
+
+[[files]]
+file = "libraries/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar"
+hash = "6e38e9fc5404be7e45189aa14ca6058bc85df20d6760a212b6d48e666abf0fef"
+
+[[files]]
+file = "libraries/com/mojang/logging/1.1.1/logging-1.1.1.jar"
+hash = "c1756eaf0685da94142bacc84309bb7ccddf65e004638c3299ab645710b5938c"
+
+[[files]]
+file = "libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar"
+hash = "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908"
+
+[[files]]
+file = "libraries/io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar"
+hash = "a7ce7f6d8c1e82b044cd56765dab4338251596416de03b1f9a05d7402429c29d"
+
+[[files]]
+file = "libraries/io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar"
+hash = "170c0ce091c2e1cc1d952d87a6a30deb773922507bbc609b962b539f03f53407"
+
+[[files]]
+file = "libraries/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar"
+hash = "d5923db1cc68b26baf5368f1f76ec2c6100d12db8406c6de00eb6dbc08052550"
+
+[[files]]
+file = "libraries/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar"
+hash = "31015505983dc57eec491ad4873411ba51f0f3beb24d22d509336c72511019cb"
+
+[[files]]
+file = "libraries/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar"
+hash = "4cfeba7ec535964a35722178aeecc87ec186dba0203d04389a850e8e62575383"
+
+[[files]]
+file = "libraries/io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar"
+hash = "73f827fca18870959b9581c6875130576e5de684cfb4e6f346f8c1c266840ba3"
+
+[[files]]
+file = "libraries/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar"
+hash = "c9551f4622b4c44c9e7dc8c6dc17874b4ddb953a943f402740e64126180ee85e"
+
+[[files]]
+file = "libraries/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar"
+hash = "d4651f6082fb60f4218f100322de33e350184f5287900d163698298cf72ddbe7"
+
+[[files]]
+file = "libraries/io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar"
+hash = "1096f16527a51dd5f44ced90636110a429cc7359a9a8a91db25000b747793429"
+
+[[files]]
+file = "libraries/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar"
+hash = "c210069be4ab4120f5ac7cb5e4a126d3a007e78a64fd44c9971220e013dbaef1"
+
+[[files]]
+file = "libraries/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar"
+hash = "9578bf2a1700cf20d21746a2ee89e57ba1abbd37fa9feda68ff5e9a28473a7f9"
+
+[[files]]
+file = "libraries/net/fabricmc/fabric-loader/0.15.3/fabric-loader-0.15.3.jar"
+hash = "87cac7f5aa01543c7607d7e751ca9f6a7ee1bdedcbe2e0795f6824b747825936"
+
+[[files]]
+file = "libraries/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+hash = "caa3fd87dd353fc826a109a2d16f886d6519b47422e3a77cfa0ba8be5829a21e"
+
+[[files]]
+file = "libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
+hash = "43d46bce43e1df1210970ce2e8610c4f617bb4173093eae975f7abd4de1bf0fa"
+
+[[files]]
+file = "libraries/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar"
+hash = "8ce969116cac95bd61b07a8d5e07174b352e63301473caac72c395e3c08488d2"
+
+[[files]]
+file = "libraries/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar"
+hash = "91a814ac4f40d60dee91d842e1a8ad874c62197984403d0e3c30d39e55cf53b3"
+
+[[files]]
+file = "libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+hash = "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28"
+
+[[files]]
+file = "libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar"
+hash = "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e"
+
+[[files]]
+file = "libraries/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar"
+hash = "5ccb24ad9f92e768d0bc456d3061a737951262df803e004d2cad096b75a88d60"
+
+[[files]]
+file = "libraries/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar"
+hash = "b4a1796fab7bfc36df015c1b4052459147997e8d215a7199d71d05f9e747e4f4"
+
+[[files]]
+file = "libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar"
+hash = "825605eacb2d5605b105c53d4108c18125e0f82f62960d0be583278b9c524f3c"
+
+[[files]]
+file = "libraries/org/joml/joml/1.10.5/joml-1.10.5.jar"
+hash = "cac9f22f83a7aa33eebda73c16ff5261e3cb4911b6bafcf4c79ea486099d0c9a"
+
+[[files]]
+file = "libraries/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+hash = "d92832d7c37edc07c60e2559ac6118b31d642e337a6671edcb7ba9fae68edbbb"
+
+[[files]]
+file = "libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+hash = "7aefd0d5c0901701c69f7513feda765fb6be33af2ce7aa17c5781fc87657c511"
+
+[[files]]
+file = "libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+hash = "c43ecf17b539c777e15da7b5b86553b377e2d39a683de6285567d5283888e7ef"
+
+[[files]]
+file = "libraries/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+hash = "c635a7402f4aa9bf66b2f4230cea62025a0fe1cd63e8729adefc9b1994fac4c3"
+
+[[files]]
+file = "libraries/org/ow2/asm/asm/9.6/asm-9.6.jar"
+hash = "3c6fac2424db3d4a853b669f4e3d1d9c3c552235e19a319673f887083c2303a1"
+
+[[files]]
+file = "libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar"
+hash = "b36b99b8d99ea7857554d9b25dfdbd1fb25378c926f7b9e0249983c99335b2c4"
+
+[[files]]
+file = "logs/2024-01-19-1.log.gz"
+hash = "fc07fa4bd29b9a1d33aecea3c04f7fa8809314269c1d40b48ee628b46b4dbcc0"
+
+[[files]]
+file = "logs/2024-01-19-2.log.gz"
+hash = "bb68bf6fcf0fa92d69baa93572ff08a6d8dc47f48632fe9fbba7527f0493de18"
+
+[[files]]
+file = "logs/2024-01-19-3.log.gz"
+hash = "f8675819f511f49855adbc3ae618c1ed69dc38dbf0a6ac59823ecfca409eebfa"
+
+[[files]]
+file = "logs/crafttweaker.log"
+hash = "fa467b35ae5b8e47f97f0c2e62783525375a6e1e31405bd11ff5d04fec782be8"
+
+[[files]]
+file = "logs/latest.log"
+hash = "150915976afd0472a9560af5fb578ca4a0b51851e6c3169254b1d583132c8244"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_chicken_28eabea863.nbt"
+hash = "9dec1d90427b0ba6ad510c5c91954621993a198c63fd9dfebf5b5d3ae39f5614"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_cow_a8cf975491.nbt"
+hash = "c4aeb883cc1bc9891e71f99dbecf2fccf8ffed5504ed95f687db308ed27a08b1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_pig_000d6fd979.nbt"
+hash = "0ebb2a6ddaf7d7b1939cb4c9d231b9c6fec3cf454dc957b68f381af8626f3275"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_sheep_5888896a7b.nbt"
+hash = "6bbdb1ca1b9cc05297fa7a475b549604e8e7938fcd2f197cfe99345574279312"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_cage_c9acb34cea.nbt"
+hash = "ce49af5bd01b901eb2201e4c495ddcbf7d9275ecbaeadd7b4c533358ef201c0e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_cemetary_9b8d2a2574.nbt"
+hash = "1aecfcac068d9639e1fe30d1104c749c175d0542947832b9926947503e9e04c1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_grave_0_a1a86dae3a.nbt"
+hash = "1c234ee76d40c3dff5e85eabbee7ee4228df6871f698c4be1ee4efa010598979"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_grave_1_9118c75b60.nbt"
+hash = "41f7c1139f2bbf6bf2975267429e0e2cf62becd771f0a6361bd0b326bdf2457d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_grave_2_985e1fcdf9.nbt"
+hash = "d25f58f39d3e314534421e24cbd216ccf0e7a3fc0a5ef0b0d6e92ae630e9e1f9"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_grave_3_641809baf0.nbt"
+hash = "23fef2f6fcdb24346e49b5f801ef11aff178d6fa8a6b9572d934eaf61a6b6d33"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_grave_4_fb7bd60b81.nbt"
+hash = "8d3f152ecca3b11faaff2c39a5dc43fc1d9ce57554ddd2a6541e2c75f6c546de"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_grave_5_d48e00667a.nbt"
+hash = "e7aa9972e155034424ecb02e9b4541ab1bf4098435fdbe2cd5dc1c8f7b642f9b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_jacko_1_04355d9a81.nbt"
+hash = "601ff7a0f0c114f1ce75cdf8ed697a8b3c0dbfa89988582bd6bf3436c838a4db"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_jacko_2_819df05dea.nbt"
+hash = "2c922e8feef6c6e1611ed397e275723f1d66c00e5b5001e14d0ec6e696a2464d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_jacko_3_71e5af6404.nbt"
+hash = "83ca86cbb5f16752a92dc40e12dcecdd516ef8b7a475ba9ca2b2cfcdcf43e0f4"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_jacko_4_8b3489b4bf.nbt"
+hash = "46e92c2a72887c48a9fd6013a443bd6ed662cf688d92879e794ea7c9d8d72bc3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_jacko_5_3cfaa2b45a.nbt"
+hash = "3d77c48ac686eca207619c3afda20967f3ec40ad4dcfcd8288ec09f9548b4ca7"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_lamp_1_69873f3110.nbt"
+hash = "9161cbe5e5dd5f7a002372c75a121c1c32e4e362ac8b9ac38610767ea25bac03"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_lamp_2_9da4d567ed.nbt"
+hash = "6dc7ff60df2bd4f8df7bc79dc1aae2cf2279ec083aa05f569b98aa33f393d4bf"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_lamp_3_322af41862.nbt"
+hash = "030d6a4f229e1070f6b4cc14277265837c634edc199e53996579938d66dc9238"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_lamp_4_668e32c8c6.nbt"
+hash = "b95a98ce15ed2f7c1721962c43c43633ffe910a5aec6ac38511c4a1b9055b1e5"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_tree_9803da429d.nbt"
+hash = "c772356a5af78e010ed66f58e4682ac985825f1c52d3b07d8e138349600d55e7"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_decos_well_3f948be277.nbt"
+hash = "b7319d2109db42eaa0d75ecce20469651212dc4db44bb6c8c70b18960b3bff94"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_big_1_b5891bb437.nbt"
+hash = "49cad189efcb49cc86c444abc5be1b3a15c09afdbb2a8ecda0b2845c3600d48e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_big_2_3a454b134b.nbt"
+hash = "01e8f465c7faa1caf55af44341b29b2534b1b5ea9b2e61d95554b2936443ac05"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_med_1_554ccbddf1.nbt"
+hash = "86e5066c8a1a0fcd3469b9517f308c28e4d7a91599ed9694380ea45f80f66804"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_med_2_c725cc988c.nbt"
+hash = "80ef329df0fa340116d072c540d545619f2c95744aed4a21c6bb7bfec8a0a9a1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_small_1_931b09ebad.nbt"
+hash = "8d333f06812614b1ddb60463e95761f3c5d83bb57d569a730a82d0f8881efde4"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_small_2_54c90dfb6f.nbt"
+hash = "9908a47b39e1ee0e8f7227faf6eb732faa3cdca31b1e9fd1abcaed091bc41706"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_small_3_b928adafb1.nbt"
+hash = "785b0683c47334c6dd0b099efe0fdc4ed692a11d24aec2ea7b3561db5b404d8c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_small_4_aed1fd95e2.nbt"
+hash = "28844d7fdff7b753589b1624d597efa23447babfb1883aff4b6c2de15bf6ee38"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_house_small_5_870e22d50d.nbt"
+hash = "32769e98493298dc4e67eea29f78dcb364e06e7375ae90f4da931a36973db9c3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_butcher_ef95c88bd5.nbt"
+hash = "51d1bd59f46665cbe5b3837b70e0f947e073c25cdc48acfd8d0d364e3f5dea06"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_cartography_df02920130.nbt"
+hash = "57f86534e6477428bcf696aaa0f3039b872ee19f68f31a8efaafbf0fd6abb07a"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_chemist_29f4e92c43.nbt"
+hash = "6cacf015db9553707c5c83f4f1b2a150fa18bafa704e48d5b13f2ed1203cacf1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_farm_82b030c67d.nbt"
+hash = "5169ac8934b3030dea78e2fb31fcbc59dbfabad1afc01666b9d49b5fcbe06de3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_fd_farm_bbdbe54825.nbt"
+hash = "1943e11d89f9d833637f08102b9b845fbf7f5de7901b8fcdffed442f6bec787b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_fishing_hut_62d61ee8ed.nbt"
+hash = "57c379003579d173a00d5920518c1a7436267b9cd205fac41ab6e6c320916015"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_library_216b59a92b.nbt"
+hash = "0e8b3b8b1b7aca9c93d05a02eb0fe384d7f044fa014519948663a43beb683340"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_loomhouse_7a67f507f1.nbt"
+hash = "529f883b36201fc5ba33c543ad57bafaa9ef98e88c214c04248e0669299b181b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_mason_dd170ffd71.nbt"
+hash = "5d4c7dbb077a4fc174d4fb6aa088cf6e8350eb71065001be477eaa60fec1ac57"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_pen_1374cee0c0.nbt"
+hash = "f5585c48bbee8f15185adf221772e9824078a3590f3ba79421f6c12821041855"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_smith_fc897e8941.nbt"
+hash = "a3cd1fbfbabbfbb7dc396b38a2803f777f44b2f82eb2c51746c4230d76a12e17"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_jobsite_tannery_fa244b32a1.nbt"
+hash = "fe838c2e7da5321033ee26093fbcdcf92dc3331027ffdb6f53dd0e23c4845e60"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_roads_bent_1_64bd91ccd7.nbt"
+hash = "8f8847d0e6bc8aca3d7dd995cd5162a23cc4dd102c51cd2fcfb22e7d6ec70401"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_roads_bent_2_f0535ed36d.nbt"
+hash = "b78ec0822d17cf7435986c42d710b3f2a0b99b22bbbb09023835f233bcddfccc"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_roads_intersection_e5a48a11b4.nbt"
+hash = "3cb48925ce40201c6cb5613eac85c9a241397be0356da8de8c267988e447f59b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_roads_straight_78bb53bf98.nbt"
+hash = "577fbea26f5c3bd201c7ae5e827a3ebf6dcbcb78e813fc5fd8475e62397cd4d3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_roads_t_1_dd97ee76de.nbt"
+hash = "c77eb9067f302d70b88b246de549c26c10bafada569d5e2ad52caca7332d2548"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_roads_t_2_32cf5aea67.nbt"
+hash = "4fd17de453dcc5c123c61249e5c0faec364cc25641a7b0772e350b06fa374370"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_halloween_roads_t_3_6cdcdcb136.nbt"
+hash = "8a2ec5258bc863b6635a34bddb62fdb832d0acf1838e6ca0f0452879dd3c8b6b"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_badlands_pyramid_whole_8fc67ac9bc.nbt"
+hash = "40207412d96a33551a351bc6e2e42cdd4e9b7124f9d40e68e482a2b37cd15e46"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_desert_shrine_whole_a0732045af.nbt"
+hash = "d2a9ebdbe348174e45173bdeee46083d641716ff41f4fd7910d783127f4ad178"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_guide_post_cold_whole_2f4e8b8428.nbt"
+hash = "c0c1d424820fda93aea3d119395364961d53201c583e74c607ffdb2f3d1a104f"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_guide_post_warm_whole_859694af07.nbt"
+hash = "a3ebfb51de0faf040ec5899cd505fd141db0dd7e33d9a1d328121f72f1bd6f54"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_mausoleum_whole_8873667597.nbt"
+hash = "643d397d41fe13ed10b3575f52a57c8b1d91d550bdf612ba0062daff33c7f859"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_plains_base_plate_whole_2ef0518a19.nbt"
+hash = "92b2efe7ed5893333dbaba266870e35ac7863c0460d27d994a13d699876cfc55"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_savanna_base_plate_whole_2eb99a76bf.nbt"
+hash = "733e143192493e7618f49fdef7cd309204e1ef9ba36eff697e239695b364a20a"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_taiga_base_plate_whole_04e09f225f.nbt"
+hash = "b1135d697ad89d2a37e21e43c1a797c022f7c1e5291ec28741aae0340756ad65"
+
+[[files]]
+file = "modernfix/structureCacheV1/frostiful_frostologer_castle_keep_base_01_238e40d26b.nbt"
+hash = "19d4e55cab6a3775eed061331cdcfdef077c303688e1cd0a49038545d5f2a467"
+
+[[files]]
+file = "modernfix/structureCacheV1/illagerinvasion_firecaller_hut_base_plate_72142ab5d3.nbt"
+hash = "959db73d9a28f1b8429ad7d308c5346136de3fb35c23cef86694a2b296f1b830"
+
+[[files]]
+file = "modernfix/structureCacheV1/illagerinvasion_illager_fort_illager_fort_327c4e5b28.nbt"
+hash = "aec5e00507c2eb6ad3eda938f32f56ac2381bf0a0b0d5f41954df30238744427"
+
+[[files]]
+file = "modernfix/structureCacheV1/illagerinvasion_illusioner_tower_tower_1_576e2e36b6.nbt"
+hash = "3e2c9c3795bc5462955905c0a909afd66f2dadb43ddc30a67d681b9f44297619"
+
+[[files]]
+file = "modernfix/structureCacheV1/illagerinvasion_labyrinth_tower_6e718f1da7.nbt"
+hash = "ccd8840ffd30e94236bc94fdbcb19895232cfd7e002ce81ef9fd64d9b0d64bd5"
+
+[[files]]
+file = "modernfix/structureCacheV1/illagerinvasion_mobs_sorcerer_9a7b825d33.nbt"
+hash = "00c1699ca355badd40c2d44f954daae43e7afef0c0d09a62fd62bcd97749cff5"
+
+[[files]]
+file = "modernfix/structureCacheV1/illagerinvasion_mobs_vindicator_cc3a99ef1e.nbt"
+hash = "7bcfcb400bad75bcb6e640fd31063ae170edad076dd84d6a3c9d48340ebf4182"
+
+[[files]]
+file = "modernfix/structureCacheV1/illagerinvasion_sorcerer_hut_sorcerer_hut_5e70e283de.nbt"
+hash = "fab01b92d4547b96a013aed4db4ca930212b6961ea42b600d3a1cadb3498fe7e"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_other_desert_temple_mimic_pyramid_main_893f05da9c.nbt"
+hash = "859d3ea004a7cf81b66f6bfa1da327542b605853c3572551b982ccaa0d8e4807"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_ships_wreckage_ocean_wreckage_1_feaff3a20f.nbt"
+hash = "7e5320aec20acfbf14044b12dccb29b612c977d85878cca3a9ef2cff9e030751"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_modded_waystones_waystone_default_3d8d7939fb.nbt"
+hash = "07c0e44e46fe15d8ee75499d75c89cc1852e7162627609ca0fd27147dfeeb179"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_side_sunflower_plains_farm_pumpkin_1_ed83b02e19.nbt"
+hash = "a11c4aad066ff42b0b5e488cbf17272b6c1c67991571581ff5d14c427016fce2"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_side_sunflower_plains_farm_wheat_1_5168f6d62c.nbt"
+hash = "fb567d9d6687c78321feb2fa4797065e831e1bc354380ffc5e20b6582f6b53c0"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_streets_turn_01_781ca9e8a8.nbt"
+hash = "fb81a015ed55e493abd7362fc4995def59431167234fcc9f84c731e391fc9284"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_sunflower_plains_scarecrow_1_d2dc019d38.nbt"
+hash = "00000e9e4294a814d3e1a2c0463e60c5e5f5611d1dd77332687fc83fe13de518"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_sunflower_plains_scarecrow_2_3ac87f02d9.nbt"
+hash = "aa043a8e0ccc77fdefea439e552a6445a38c064b196de68089c342d6ee5b4304"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_town_centers_sunflower_plains_meeting_point_1_f6b2f348cf.nbt"
+hash = "406d9d4f25eb19ee68095e4620c49b7ac746b254e26eac7a96b42276de31de3b"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_bottom_1_685997d139.nbt"
+hash = "89a3727ca851ebd0ab157d88d23fb7079997a998ffb99448bce4dc3282e5c19e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_bottom_2_ad91761ebc.nbt"
+hash = "41ccbeb299a90a2561af28dc08b02761b173629559b8cf1496b0ee1dd50b56de"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_bottom_3_08541a21c4.nbt"
+hash = "484b7af260247708fa02b70c97ca0b8b449e1c35b10c0d54657ce53e159283f6"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_bottom_4_9d200c0460.nbt"
+hash = "a858b5587689dba85a3a86e1d66394e23a0e8936a4df633fde0acdfb0c60f351"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_bottom_left_corner_15b9c8c4f9.nbt"
+hash = "bf0aafce9ced0eb80fc88dc0f36d8bfb12a76360733911a2323e1928f90e7f4d"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_bottom_right_corner_1_daf47991b6.nbt"
+hash = "085d6db42c96e2e93f1183461b5d8e1b11c9a81ea9165d2fcce882e1d29a4be9"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_bottom_right_corner_2_2751786b13.nbt"
+hash = "c10d252f8c64bf6d2bcefe369d62a16c9ff96db963000701471afa42ddfb7a37"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_left_840c65caf7.nbt"
+hash = "56680345c8f62f26d88db71cde507bd3c64948322685f16621d599f886054960"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_right_2664b64ef1.nbt"
+hash = "bb843fc86990f49e4adf68d7f0b99567cf06463db042b58d65aeb19ec3cb2564"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_top_cabb67c547.nbt"
+hash = "030ba00d6b18ed2b45170e5c924d966001434e3d5254d7a18587c1afd8f58e05"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_top_left_corner_2d8bbbcf98.nbt"
+hash = "44ab51041ce9736c9de22dee06f131bd3e318117babc4a1eea801b50d8d7cdc7"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_center_walls_top_right_corner_3180a32aad.nbt"
+hash = "c4788dea5c3ef41fb1dfe06106873bfbf4a6fa429ee7b795cfb953966ba5ce3e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_entrance_entrance_connector_be1cd1b4d8.nbt"
+hash = "3d7fe949fdeab0272c480a853180af660fed7dc1ca3475bd1081062cbd29bd49"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_entrance_entrance_path_1_39a0fc10f1.nbt"
+hash = "4e07b50fc4fe5a45d14d45983f9c227840c1e9e51a5873a54f7e8410f2ea05cf"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_entrance_entrance_path_2_a2505ed062.nbt"
+hash = "67ff6d4c716aa5adaa76dfb61f4a656f4f3f50470906e2960354d5427d6edd91"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_entrance_entrance_path_3_2662cfb7d7.nbt"
+hash = "f9b9df1ee6bf1eceeda6810df4e0e54bdd641a4121f0b5af033c7b85063e15df"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_entrance_entrance_path_4_05395599b3.nbt"
+hash = "ba88a09454dad233e627b0561adbaa78dba0db47a9ec421941bc5a43ac6bb869"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_city_entrance_entrance_path_5_275498b59f.nbt"
+hash = "eaa5fa49a5787827281c9a081e88ee75593a985a90bf4b5f2ac24104b5b95cac"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_amethyst_box_1_b0a745874c.nbt"
+hash = "6c5169d70d87d3fb77ebafbee5b18124166c32b4fa0e9b54555cb40352775daf"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_amethyst_box_2_e230bd2f25.nbt"
+hash = "2abbb6410b01971ce07aa0d49755bb51f58c98fb857aa0161a20944dfcd2aea3"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_barracks_0138a1fbd6.nbt"
+hash = "5784dab5d03bb424727b1a48184319fd27fd6717eca78b3b5b86f0658964055e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_camp_3_6fee5a7292.nbt"
+hash = "ae18c788c23002bc87c5d7cc1edbdf47c0697911c9c52fa232a4533f5d6a023d"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_chamber_1_6f9842336b.nbt"
+hash = "4043b5d4797e917524bd65211804fbb5afc269ceec0e16f68a5eac19217213ae"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_chamber_2_bf15725092.nbt"
+hash = "32b004dd78631f31d7e409f428d680a570f7f2547c553b7805782b76f68220ca"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_chamber_3_77b046abda.nbt"
+hash = "84f48703f2b4c6d5e00db106c6398ffb9b20702f5c3cfec85263d6fd77f71ac0"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_1_abd0adb6ad.nbt"
+hash = "dd606d3737d3e5ee1a258d8199e3fe03da0944b1ae33355a8d1b27d5217c2e68"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_2_87dab94255.nbt"
+hash = "48d0331b591bc833bbb0b7bbfe1b5062cbf5b4936e6bb976431c55d3fe1678ac"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_3_dff7a92ff1.nbt"
+hash = "da3eb889f6675e29d0771ae833f083f1a1f51a67b27611ac2e7a8bfc0e269d87"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_4_9b27a53878.nbt"
+hash = "a9bab04d68fa245d929985234ada979cb433383417e89fbb16a55675214ab99a"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_5_ec1e1a5891.nbt"
+hash = "efcfd654e13a2bbd53fdc386ae67a988758ba3d18e45e4f7b96585201a1386df"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_6_3134302c30.nbt"
+hash = "428b45c0d5dca53de9e215966fdf0441102a5e0016ab1bf6917b10507eefa936"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_7_81f274a4d9.nbt"
+hash = "d5108bb4604b560bbe5323e4ab97864cc9c944b8da8f2ee0233b450a528c71cc"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_8_30ce51ad06.nbt"
+hash = "d692217b9a96507bf142a177ec83d1b02aabb45aae0aadfe4d7891bfb5ede2a8"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_corner_structure_9_b7e22cdb5c.nbt"
+hash = "83c3003badb9c2fc59d565287b6af7ab22ab909540a41dd56b3b67cb26654b40"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_ice_box_1_f096c2ef46.nbt"
+hash = "c3af25cae851565469f02d517cefb07b31571647011aa1b305332ef357c2da3d"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_ice_box_2_6a1c1c3cb9.nbt"
+hash = "c674cdc6395e5dcc380ad8f662967bb19ce71e1e43251b473ffd6ec42a184ff0"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_large_pillar_1_a221070447.nbt"
+hash = "1e2259a5f0c381ee756e5e1917b32ed8adb41d8724de957eef45122dc46d7f60"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_large_ruin_1_1dec04767b.nbt"
+hash = "7903bb8ef8246e100e93a4412034cb030bf2548f6d732a0618545ae618d9fdf8"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_lighthouse_pillar1_b710f3764b.nbt"
+hash = "899f9cf85a3342961ce6044bbc2da23ea18873a886ece38ebae6db52a5ff5022"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_lighthouse_pillar2_f2ba1e8160.nbt"
+hash = "871b8dec079c657f33e28a1cca9c3f5affa49b0dc31161338c07de0f34e042be"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_lighthouse_pillar3_4492b966d6.nbt"
+hash = "573236e20f5c6d2326ad43701fc237f5f99b116912d4c290b7b060c1a31feb1e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_medium_pillar_1_744843c65d.nbt"
+hash = "af8227e60da8e67250ca961cabcf53e067e8ab02b08bb883044d3ab078998fe6"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_medium_ruin_1_fbba1845a7.nbt"
+hash = "94029801f342bb4ce9252cc8eec98cf6595f32f21759de33b0bfe80d28cade16"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_medium_ruin_1b_b1a95be774.nbt"
+hash = "ccc98575e12d51a422d0f77ef65da71ac216ab6954b8e5f89cbe153866db80a4"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_medium_ruin_2_4398453162.nbt"
+hash = "18828ca5fd4c7813ca8d34ad688b15364b93c59c96a8fa6492d95e81ace4b4e4"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_medium_ruin_3b_9fc661385d.nbt"
+hash = "03d33d8550474dadf098d37029e592ec1bc7f9d3ffb4c9f184fe89c478a561b2"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_medium_ruin_4b_e15042675f.nbt"
+hash = "fd604de69c0cc08bbccff65fe0f4a66071e45511f09ea8021b66c4f7214cbaed"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_sauna_1_242815b52e.nbt"
+hash = "6875d6fe49ebbef4a60d56eed2935c79738668eb70e9dc7550a2526eb328c36c"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_1_42fe399a40.nbt"
+hash = "24e809453ce76ce28894749aa01ffbf8e39e03c0c3b508a7d9c5151ef5554bdd"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_1b_9b8599173c.nbt"
+hash = "66748c0dc7e3d7b67febcdb456e862ae553769d2407e0625a2849a5e2b5b8f9e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_2_4d8add4fb2.nbt"
+hash = "40d43d921522dc1cd8fd136e9308d4f4f0a69d612f8ac10f2810e40d67644f24"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_2b_519474cb87.nbt"
+hash = "2ebbce99bcbaff5fa77e8e8a729cc408a43f1c7136432535ec206a2ea6832a4e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_3_1a6d7d7495.nbt"
+hash = "cfd5dc0ee68faccd9f50360bbff01496bc10c718dde4fd4c7a225ee7f153e9b0"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_3b_67c03a6e9b.nbt"
+hash = "c430c208fefb007d9ce2dd7fa2307c97cb61f5fae37e52744d0602cc5a39f9c5"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_4_f90c59a3bb.nbt"
+hash = "6a9d3151c18762c8044ce9a730a9e19e7d95c49570271a926ba82da992d5b4d3"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_4b_28a3fdd966.nbt"
+hash = "0af8154fbc00458664901ceb541f467d3fd97501ab219d1111c9d3ee218f5268"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_5_b461e7c6e8.nbt"
+hash = "20ad834b94876a276e9fa79e9076fae9305a4b1c50ae93b34609baf87ade3ead"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_small_ruin_5b_f7be1bff5a.nbt"
+hash = "dce6eb0fe4bf5615b98e2d1b7b03461c6be8ff10f9723fd332a09041ea355fe5"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_medium_ruin_1_081f8129ad.nbt"
+hash = "c2fd6b3994cbce65a7954a02aaec3633279ee1917b251eefca15693f8e111180"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_medium_ruin_1b_4eaa8ba81b.nbt"
+hash = "aa429ba659157783a1f448fc72d2f4a68f2297c7810503f3d46673f04d7d8b8a"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_medium_ruin_1c_d130cbb18b.nbt"
+hash = "33a41b203adaa6ba077c8eaedc057f82467e85388cbf1e7f7c773c55f8eb4a9e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_medium_ruin_2_6198eecc02.nbt"
+hash = "528ae8bd61c3ec79d0277ac337b7cec98eef649434c94399fe7ac452c46f0027"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_medium_ruin_2b_a53b8a6b36.nbt"
+hash = "e172fc82180637fdc496ffd210ec76722b110766be57b4c3833c0fcd25ab9fe9"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_medium_ruin_2c_6650b0516c.nbt"
+hash = "1f9db0433df9e2e4ff0d70e47ffe345254720da03ec7fec6b14ff0bef257a7d5"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_ruin_1_328071a046.nbt"
+hash = "1a23ada82263dd2a07d04e778433bd044356b379f1c51228e53cccd2848c61a9"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_ruin_2_2ce4e372e4.nbt"
+hash = "093384cb3035428ce57cb31d26c28a0814d3650de7ad65b9aa3761fa132ba165"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_ruin_3_23a172e635.nbt"
+hash = "0098bbb9c886b0b22411130a1e5ddde39c25996d395ce155829564c073f69f17"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_ruin_4_264c78ca66.nbt"
+hash = "66b9725a5cd92c61225f6770b8eab5af799fe7dadcb3b64e9603698af752dd5c"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_ruin_5_e5338c8aac.nbt"
+hash = "8cc28319e7ecb75ac83f1202f9512e0e0f51813b0aaa7a9d8d9dee00e2c6dfd0"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_structures_tall_ruin_6_f4909fab52.nbt"
+hash = "5349f630c99e76dcd3c23bd6d57a2e85df69885c98b08ca1c9cc1c39e28f9c8f"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_walls_ruined_corner_wall_1_8e07f2020e.nbt"
+hash = "5cf6ac3151c1157f9dcbfb0c7382e023547727d4f1269b459e19cb8f2dcf8242"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_walls_ruined_corner_wall_2_1870095986.nbt"
+hash = "cea8f069588adcbe7d4dc890c73290c909092975a876dbb0d99e444295740349"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_walls_ruined_horizontal_wall_stairs_1_5c55d54355.nbt"
+hash = "2052bcff343ebfe40c10ec65e1b6ec7e5032eeec82a542499ac6338fceed0767"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_walls_ruined_horizontal_wall_stairs_3_bbf13ff79e.nbt"
+hash = "92d84beb6ea3daea541f8acf1fd8e9bba6794f23dae7f138e80239a22e5b9e70"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_walls_ruined_horizontal_wall_stairs_4_a817d60812.nbt"
+hash = "b3cd2194bef61fe63d8f2106319a8baf6777ab8d983c51ba17d1493ad9b84f87"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_ancient_city_walls_wall_lock_39b07a6465.nbt"
+hash = "ef3af3a1b7d9bcb0baae36f050d591db4a9e0b602b2ad43fbf0233b662820ed4"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_jungle_jungle_village_center1_afc333fa47.nbt"
+hash = "319bc9ef454e7d4af1f069d057c86aa929fffc96f6acd879b3130229987eee3d"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_jungle_jungle_village_center3_7d14dcf37b.nbt"
+hash = "e9ce1a41ba209b5ffa3df2a3e07c9bf7918978b64610613e138cdf5d21679148"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_swamp_swamp_village_center1_5351220708.nbt"
+hash = "db5ad9cca10320ae6ddde92619f3a9d9d9a6be3f372281a1a1715690259ab937"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_swamp_swamp_village_center3_81f9e4ac10.nbt"
+hash = "3eb4eb3a3d9657fc901c339de9ec1874f4c0b6ac91b262e50033b8a0a5b9b08f"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_witch_hut_witch_hut_2_f264f433d5.nbt"
+hash = "9f2cdc99de953612806d5d15ea1f2fa2c14ed75b5e12f5b4defae2557a64491b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_bunker_bunker_enterance_1_cc49619c6d.nbt"
+hash = "0736d29c46d17af1f10a681c45e701ac1b19db470590ed73889734151a93be00"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_conduit_ruin_main_conduit_ruin_ring_1_99578f135d.nbt"
+hash = "15a7205baa2d4ac9047e0972eeb5ce41018b0f2a9e8daed2968711a3b6a87fa8"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_mangrove_witch_hut_mangrove_witch_hut_1_cadd627a52.nbt"
+hash = "d145ff2459ff91bd355e395b9b6098d3ce5c830683783799f3082382fdf9fccd"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_mangrove_witch_hut_mangrove_witch_hut_2_f808faa611.nbt"
+hash = "5b1997e214f993509ac7e612d149ce5fe169d6dd25041a2b34c0f2f962b1f275"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_mangrove_witch_hut_mangrove_witch_hut_3_acd8340f76.nbt"
+hash = "bbe29887a8ccbc0b29d2f1c78dca9abaf5e338c38c21c8f27966d88ec1c2a70b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_acacia_63ba303479.nbt"
+hash = "4f01bdca25560c53dae9494b5c653038e6ecbd26a1088c064919b2e66d01f921"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_birch_477c8fbab5.nbt"
+hash = "41e67f7d9e7985a788e6908f989de1fc3016f64cd60b075eb58605ed5380a8c5"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_cherry_46fe86d5a6.nbt"
+hash = "017faca4e7abdda40ae7321a60aabf3f30139276f0ccad7626b917ca29eb5cad"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_dark_oak_0fd3a56aac.nbt"
+hash = "27f91b9392536556a4d043a9bdf9bf557a89849261e9ebf61cef3015f6559140"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_desert_705ae1cc5d.nbt"
+hash = "cce27dc65e79dd8e68dd49e3cdb76a21cc3538112c2d51446db18ac8e68bc186"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_jungle_67374ff016.nbt"
+hash = "7c5fc121c8a6d12a2d5eddd1ce2ff527a9a192caa42e2446288e6f1b203c5a73"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_mangrove_2497ae2cf2.nbt"
+hash = "71c424260b8a353813b4160c8db1653f1958c1df2b97ed294a87714d70e5a0c2"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_oak_16ec8b2e83.nbt"
+hash = "fe24e3349b2a82c63434d7ab126f762681fb7560c43e495b27c5c238a7f53f4f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_snowy_eb4fc11938.nbt"
+hash = "669c5af44fba9090c4090e175b2ea9b528b05f436067bd88cf700f68f2e09c7d"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_spruce_17039eb8ec.nbt"
+hash = "8fff444e6d06ae9d7596ce4d7fa9e5e42dbf4888a6d03bbe14c5e935779a0c25"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_enterance_swamp_c52afd4e83.nbt"
+hash = "507a4a79c7524819b728eb895ea734975b1b8b831be3a533214d7a2d40a0956c"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_acacia_abf3462ef5.nbt"
+hash = "f7178d76a3a6612f086534d088cb538ac8d3be2a2eac1f90a2c53a564e114d98"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_birch_8daf78b8f2.nbt"
+hash = "4d597b2f355ddbc725660312a538a928831db8d1355d894bc6013410c0821abc"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_cherry_4a34dc095c.nbt"
+hash = "31e0ff3b7cf21283f776ee80058a07bf9c11e94fb592d0402846367ace210421"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_dark_oak_7fcecb623f.nbt"
+hash = "eb53d47598ef37e6ecb9ddf70e81e360dbdecb3cd98898cfd3a91f930177fcdf"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_desert_db999c7238.nbt"
+hash = "c4d1f8471d9bb36bc124da212d59cd7e976f58af7981603dfa838b291a04cd3f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_jungle_61e9dbe02c.nbt"
+hash = "7f5c8161caae376ddd33a4480dc61b0c8969a75e6af66fbf9656f73337102956"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_mangrove_14b5508469.nbt"
+hash = "9776bc9f81ca04d6f25ecb2efa3a51a62ac594423be2fc78a4c6299d43bc8a40"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_oak_cda702c316.nbt"
+hash = "2342dac5d5c91d81b47b05748321aacca5e1762c728f03b49c1ff27b159e6a97"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_snowy_19aec05963.nbt"
+hash = "0629d02e9cc2f3b016594291dd4e7abf1b4505cf368026638049bb2f680b8300"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_spruce_24a169260e.nbt"
+hash = "8255d9a2dc61493bec3e09e501e9af4aa2267313bc3b7d9e3ef958b047d8dedc"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_fence_swamp_d93a817229.nbt"
+hash = "847c6523080e34fc7736f1004e5749c37950b149a27e606059e2e7cfbb71f6cb"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_acacia_9dd9d39e85.nbt"
+hash = "18097bcb332e5d234ca518d08d827ec983f746c451a03474b672186b33d682c0"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_birch_a32925b2ad.nbt"
+hash = "c66adf9b9b53ed439a09b28445334f421f81a88044c18332d3de735e278ce0f1"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_cherry_3a8e1b1f73.nbt"
+hash = "0af03b51e0ce3f3beb26892d82aa3de7800cbed2b779b0a6d54d2764c798d09c"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_dark_oak_897eb1a85e.nbt"
+hash = "3ea1ffa64801d4e778cd3094ca5d0267528e3c241a1ded54dd304bbc092e4a1a"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_desert_4297845be1.nbt"
+hash = "be9d0e81676ac6fc40aef82c166872649e911aac001fc54eaf497ded620a49f8"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_jungle_8f824323bd.nbt"
+hash = "ac0fed27bc7de298be686f30e7a3ef8bda3590a82bd8d12f95614726a65be579"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_mangrove_d0c73612e4.nbt"
+hash = "4be73fa26b502e77d5e5ce828c4c092ec1f36ceeee3f67460c25dc7e5255cf87"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_oak_ced3f83cb0.nbt"
+hash = "f0ad604ac1ad14034b496dc2c0597467911f5f1e3adc7f07add8e12393ff1425"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_snowy_f811e0da52.nbt"
+hash = "1d083bb9a30bbdeb8dd23311f47f7ff8a3938d70f69928a6f9e5661cb47018a0"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_spruce_ad8425bead.nbt"
+hash = "848013249d4fbdc02ce6d360397b18b73e81ddcc0f473b32fc7ff2aa8fb61cc1"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_animal_food_swamp_e0b4ce4eaf.nbt"
+hash = "16fbeff222c2053f4da4f9fdb9cfb2e36d81dba0bea0d5fb8a6789e007fe7490"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_acacia_07580b692d.nbt"
+hash = "eaa8567996211af8450f5bc72f0b34ba8769314282323f36af63fb10610f7d3b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_birch_cd8a5a1332.nbt"
+hash = "c6310db1e1a6d557047af38a749bd903e71e36fa7d6e98ff6c0543d393b1fcc3"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_cherry_fafa5d8432.nbt"
+hash = "f3c8a060cc1f910cb27bc2f01f1f4b21d23feb978e80f1bdf2e15abd0056460b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_dark_oak_589878cab1.nbt"
+hash = "edb463f4bc26c1536b1180c3fee5e9901e8cbdd3d69a6d084bfa5c8f88229cdf"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_desert_2d2dc3520a.nbt"
+hash = "6b5b9906cc7b0572bbb6d35ca32909afd6012cc253a7f9a153d2e6d00282e1e8"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_jungle_365ebf3f57.nbt"
+hash = "0af3c3a2192967ae0fb52847d8090617a341bf685e9ed148a476f100a33c8086"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_mangrove_1a04bba0fc.nbt"
+hash = "315526af531b23b5323b8f7b0937f8db13bade76f786908619c8173841ab0031"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_oak_cf9791ae88.nbt"
+hash = "532b91cdc50f1d45d9046a50e8a7e353665b5e4e7abfa5408d6298314b3f93e3"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_snowy_99a85b8696.nbt"
+hash = "5c31034a42beebac630a8374d50d6fc51a908a94e4ebc3ca87caf4b1e00eb311"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_food_supply_spruce_f4c9e7c87c.nbt"
+hash = "f3280731824f7825540a66c472b6b2bbca8809099d7af655524fb744a6504728"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_acacia_59060f2ea4.nbt"
+hash = "d7e1bcc723583bb1e6fb53aac659cfa9eabcb1d2d8f78618d0fd77b981f7d3e7"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_birch_3fff9754fa.nbt"
+hash = "1fc2862ad44a3611d296e9337e15ea0429f21d3667c1249d50dfb3f1ac3cebee"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_cherry_a48485c53a.nbt"
+hash = "b522a5850353e8b924700ef595704b6a7b035153c88087ba3ccecbe1b0a616c6"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_dark_oak_68329545bc.nbt"
+hash = "8daf0bf1cc4895f27587be2b4d455bad5521e973627457b60ca79697719e1904"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_desert_b3977395f4.nbt"
+hash = "5ea66a1d8a6a7187f39ef093b5bc184ab33257a0b547234f5a35f2b1e96eae7f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_jungle_2052a16449.nbt"
+hash = "4996cf3bf1276938314b829083c2ecc1ac4afe1202c11f48d45c63fdcb0ac2cb"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_mangrove_d95cfaf85d.nbt"
+hash = "1e11bae11e1cf6175b8bcc5b4ec4a3eb6934cff3eee9e4ed51e58fe7d8f0573f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_oak_675336fa11.nbt"
+hash = "fc3df6a8d68ab9f07bed80489902b07413d1431100b713940d51667b1ae04ec2"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_snowy_df7c023c1b.nbt"
+hash = "49754a97249dbe0d6e004a9d2ba2cb7cc569763a820f25ffa7c9b8a2071464c9"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_spruce_6875aaabb8.nbt"
+hash = "a6f4779f6ca4d9840b92132d6279b1e0e085b1ea5df17365b917cb7949830bd7"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_hay_storage_swamp_6c843cc0fb.nbt"
+hash = "c2b9d60508be396830aec2e8e8f541f770083fec956a9ad4421d71baee29e45b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_acacia_bcbe7e02ce.nbt"
+hash = "3f953c03fc717fcb14bf14d1b44ee94e794b15929c0bf8f4c397c37c54003034"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_birch_82f82c2d8c.nbt"
+hash = "32c1fec1f1ac6de39afd8901976ffb9aa661ebf05fc0b64a5d0064b9c6d87005"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_cherry_95c573b47d.nbt"
+hash = "729ce9c4c52e67568d7e1879c49b2974efbc952c0ca13e532e1fe024e02765cb"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_dark_oak_859f0b24ee.nbt"
+hash = "17d560b31ec69344130f8ec216eddd5579d00d249079ad0275aa0e17a728070b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_desert_846d99bcf8.nbt"
+hash = "36371c5f21de4b8fdeff7ade7128337f61d5b48a0e11899a2d069a583e388865"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_jungle_914e067f41.nbt"
+hash = "6372c7ac323bab78a7f292127a3f2537026a3c2e73a160dbd17e572827dfc5d7"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_mangrove_09e7aa54f7.nbt"
+hash = "c5846bc4e1b88b5cf628d39c673eb7689209ddfe6e045f473604f0e130d0a0cc"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_oak_fe8d942a85.nbt"
+hash = "68277ee4dbf10da0bb4b3615aaa17351495c25067763b436d25aceefeb91f989"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_snowy_fa6ea84b11.nbt"
+hash = "8e023d1028e97aca32adb6772b0a02b25be3b5e7a8d44da990c0707430cec37b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_spruce_3299cc61ca.nbt"
+hash = "b75d8e8f513e8206331ff405816fbc112d800450d5424061c39526882fa6805f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_log_swamp_5a169090d2.nbt"
+hash = "4fb3d9998b4a2bb5841954efb0c7d082a264ccc00a36eda9f8fa6db17b90178a"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_armorer_01ed3fc532.nbt"
+hash = "fd9c39cdae7aebc246ca3baddbb174d3de7abeac82b7bbdb31560722af0db47c"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_butcher_da7407133e.nbt"
+hash = "477ebc7d8f8ce7e7cf8428127e208a5646f4d0e58218ea72850b208a7d0918b1"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_cartographer_6e6312ee2b.nbt"
+hash = "f2c3d67077f1d55c0e2f78eb662795d79cc67a03834441840619fbcc7aefa319"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_cleric_8ca276de09.nbt"
+hash = "1bea1e240869043903181bf656437a82768af1c3a34cb03abc54b2d77a5b85e0"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_farmer_7ba67ef9bc.nbt"
+hash = "03486fcaec29e8e62452f89c6ff905c9a202960be1eaa86dae51380386fca00e"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_fisher_1f92f021d0.nbt"
+hash = "83d938c765f221bfc59a5437cc9e8f879eead21188fd47e697874e8a577c9341"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_fletcher_8ded96c815.nbt"
+hash = "b7692bc0fe8f6bf5bde3d68329f8b68be1a74151d6f46bc46894b72b1ced1dda"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_grindstone_b5c8ed512c.nbt"
+hash = "960949c499305d11ff9f931c2cb3d840d8fef3d1bdc75cf73fc65c21e5d0b275"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_leather_worker_88d66ed2e8.nbt"
+hash = "2321e43e33d523bc588f82db4bf11c94e506f583f387fccb96a96672c4e029a9"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_librarian_6c098669be.nbt"
+hash = "5c84182a123050534a427985ffd0d0a4111749868dba2a50a1b43338232ec484"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_loom_8f37cb7e88.nbt"
+hash = "3bf85faf315d5ffcd5d067e747ee30ab27d02f21dd3e57da04c7799a1387c359"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_smithing_table_b6b78e102e.nbt"
+hash = "b70b16c9fa658e66cae75aee670dad30633839d7c87e6d96d86cd5ff90eccbce"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trader_car_stonecutter_d7c4e4fff4.nbt"
+hash = "25ebdb64186d8421780f8686046d759be50b331fd7ebabb4c1be4489953f5105"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_acacia_d7f0588b5c.nbt"
+hash = "6f887f89b25785733cab607bf75d14f3071367f160b2919314780d018f5579e1"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_birch_09d327a183.nbt"
+hash = "23385c4357e3cb191c1c4dcbbb684f6430b0c6663330ef06599b922b37e04bc7"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_cherry_9afbe86464.nbt"
+hash = "b6bc99534544a08aaa34b5ae9c6d5aad66046a7dbada35d96c1c2f557d1cd625"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_dark_oak_0246bd118a.nbt"
+hash = "787e836720c4b6d082463837772fff304fa3ac418efed8205a54c1a41d815219"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_desert_ab333b4316.nbt"
+hash = "d97621391f5458b79004d90911caeae539d64ffaeb194e143762826ad6f1b807"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_jungle_91f89b1cf8.nbt"
+hash = "e3dafe8d4c727ac9c3c645e5418f9af8d2ef51a99d4113e27d16b5dd34f724c2"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_mangrove_df6ff6ed27.nbt"
+hash = "fa623850f0734230aa0aea2f90f9acaa23c22dba91fb5ae8b2e81349dc4a562e"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_oak_c96ff2a936.nbt"
+hash = "527abe8e5194d5760e9ceb99fa8ee09f7cdd86df978ad8806756682fdca38810"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_snowy_33935775bd.nbt"
+hash = "15409e86c5660bd509837ed2470a6d9e590080b22b0b38fd779226280e3ab856"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_spruce_7884ff63ad.nbt"
+hash = "d7ce708f1c75d319b17a6ff59cc4cbe903941f4501e91d4f25fcbda8aa91fbea"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_trash_trader_swamp_22edabae7a.nbt"
+hash = "b86184a2a32330b16d4c4765820c9fb3f2e8a6d95adba48579e52c68e64ba3e1"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_wandering_farmer_dark_oak_58194e1a96.nbt"
+hash = "37959ebc6d3fa845a4e1d6acd68fc55595bb68fe2a817148b60ad42982e2e563"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_acacia_18a356efd6.nbt"
+hash = "2d0f527b5e03f7f50193474f0959076335812083368175d3f452c90b8591892f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_birch_a55a371fc5.nbt"
+hash = "bc600c8c098080dcb6f5e138eea0dff9cde6326fdc1299ddf7585d51abd52f04"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_cherry_282a4da33d.nbt"
+hash = "caabf2550e65015af42a8c39aec6198ec195e8546f95e29cf567af3cfeff02c7"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_dark_oak_dcc757167a.nbt"
+hash = "0b3e14477f837d9d232a09d60b9f762b385ac939548b086c16aa6a4678b77231"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_desert_640ac7e685.nbt"
+hash = "d76e9442fd6f81a876a028336f5492387bac12fe950020dc2fd4e1c403be548b"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_jungle_0a33a40294.nbt"
+hash = "387512d19c99bea03f5b8a281342e1dcead5cab3a392a258836a078c17f1037f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_mangrove_2b2683707a.nbt"
+hash = "08e4ae70f8e7d7b2b3228161be16cc6a8b14f190e7b419c98adf922f92087d91"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_oak_caf24344ca.nbt"
+hash = "6974605ceab821ae639460aa2f0b9fc8a06fe525d7beb7e44802831478ec0ec3"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_snowy_62dc12c66b.nbt"
+hash = "51fa0f98e20532949b298347d978fbfa9997da8db1227a022d47191f2b568f42"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_spruce_0a95bd33ac.nbt"
+hash = "b3b202704893fb138650447dbae7e25727adc59ba96d8ad9b9a76765dddbdb11"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_event_well_swamp_d3849ff914.nbt"
+hash = "81480fa8e31a9323b2719ea5fd16668b778f92dc29982c1b84d9997670ee2971"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_acacia_877855e3fd.nbt"
+hash = "f9ea74220fa80520c054097955660751b5a309f20d22250d2f7b959efbb5d34a"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_birch_6c6c7537d8.nbt"
+hash = "fc8f8914db2861c1d76169bc9b9a9d715be82d20355120941b3662d42462b8ec"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_cherry_23dc022367.nbt"
+hash = "1bcb0f17bc82fbced579af4f2a978c5c2c6e0631ad78b7cb8dda21fcf0ef175f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_dark_oak_5e4272ed67.nbt"
+hash = "e96b7bad32e0be2b231a644f52671ee9f9524df965e71b071d50a76240e8b56d"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_desert_1b802611b9.nbt"
+hash = "b2d24a0b6d7bd73e6eca84d4ee27b679c6c814cdcc0e6a2c1a465a733077f103"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_jungle_a6487c1014.nbt"
+hash = "cf55e1531085b8ecebc80d106810dff2074e66f09cd484c31479bb5fc7d2a156"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_mangrove_2c5f9aea79.nbt"
+hash = "be2169d45841837adaae56cf0cea7b302c1f7052bfbb92f609b148beafb9ee4a"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_oak_1a3641acf6.nbt"
+hash = "3c0cba3697ff2b5b3081de353195ca1d86a580bd84a56d05bb05658d46707b2d"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_snowy_e64bab2a6f.nbt"
+hash = "77a15c3e3f1f8d487fb0d38e34fabf1c0a587ccf830f033ca3e49c0ecc3e33d7"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_middle_spruce_bb02976b88.nbt"
+hash = "2b746f1fab80f471d67d9b027fb48bfc3947b3fd966a3479c90c60b0f0537fc2"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_trader_0effec3f38.nbt"
+hash = "c07695a044424d9ac379b549a994957ff9ca912583dc52b07838e2937d59478d"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_tavern_tavern_villager_3a7ae2cf21.nbt"
+hash = "a6ea91b5ea07e621bd77ce79dc66920f44f4965f04e4d6cbbbe7a9a8f3d41e90"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_well_well_anchor_birch_faf49dca98.nbt"
+hash = "6941dbb675ddbd3f75b4b8f5ba934815386ac569c3d49e08b72a3d9697fd5b3e"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_well_well_anchor_dark_oak_fb365dd456.nbt"
+hash = "c3ef569eb3f6efa54651862241c5230358482fb243f185e05c2029fe45a7b4ca"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_well_well_anchor_jungle_8a061e8290.nbt"
+hash = "44f473501ef9bae947eddfe9ab58df06f64dd72c37c9d8741a6908f4a6bef487"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_well_well_anchor_oak_777e77557c.nbt"
+hash = "45433e53196e764734c39886fb104491fd4335445dcc7998d0e270422dac423e"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_well_well_anchor_savana_f3ae5a5647.nbt"
+hash = "ac39db52332827a2ea02e1b2f888e42c7946373f326486185d163878c966f2f9"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_well_well_anchor_spruce_34bee5cb06.nbt"
+hash = "54ef8ada31a3a69777f400dc5e502261f40f3c18498c17c6eabe9b036b7502ad"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_10_6a08c224a6.nbt"
+hash = "3584ac6391c90eeec40c8c960f95021bb5d8f74b40f45a950d961f9b7f9c605f"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_11_c556505101.nbt"
+hash = "8d139b038618ad036ad901ff71e353e8f781b029f229c2d39ed4f674fc269ae5"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_19_1894407e8c.nbt"
+hash = "e859de51bcd3808d4e16b68f2008eae351f0024048e13cee984d2d5ddaa9f2e9"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_19b_d2635e0cda.nbt"
+hash = "1007d25036b4d5b599b468f616f2a2d68ff64bb538d8357ecd4d500ddf968316"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_1_cd3678552f.nbt"
+hash = "e403203f0f5ead2ae79682b5f136e796eb67a5debd56a86e91164da4ef8ce7ef"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_2b_d4eaba31bc.nbt"
+hash = "599b1951678df5993578d4aa1f0129a8c068642b8b9b036571908f9b45fb5898"
+
+[[files]]
+file = "modernfix/structureCacheV1/nova_structures_wild_ruin_wild_ruin_8_aa2afa2d5d.nbt"
+hash = "5d371b7e74bc32de3c71ab161c662e56a70c742a9838e4ab4b55847fe25b1f12"
+
+[[files]]
+file = "modernfix/structureCacheV1/promenade_witch_hut_df6fe7e440.nbt"
+hash = "a47fab171a309504445031b1f03cd1b29da74f1e2554522774c9d1086ec69c79"
+
+[[files]]
+file = "modernfix/structureCacheV1/promenade_witch_hut_interior_normal_7a0e07ce23.nbt"
+hash = "53119ac45e58d11ba9214ddc7073b8320845aecbea65ab71db1ed0384c1dc54a"
+
+[[files]]
+file = "modernfix/structureCacheV1/supplementaries_way_sign_5afeece7b2.nbt"
+hash = "1916d90bb31d650464e7a8192dfcd9c546ebfe3035cc09a503a76c92754c051d"
+
+[[files]]
+file = "modernfix/structureCacheV1/wilderwild_abandoned_cabin_cabin_abandoned_cabin_1_5cd3a63f73.nbt"
+hash = "0fb18214ae041c8387b2865a2e9163bb46ea5e9b1fbcd35be89158822885abc8"
+
+[[files]]
+file = "modernfix/structureCacheV1/wilderwild_abandoned_cabin_cabin_abandoned_cabin_2_8386a9a0ee.nbt"
+hash = "1a57220016b4a44fff1026ca62dc7bcc0366309020b7811284c10ac2bd8fd8fe"
+
+[[files]]
+file = "modernfix/structureCacheV1/wilderwild_abandoned_cabin_cabin_abandoned_cabin_3_10ec27f7b0.nbt"
+hash = "5b6d32117b304d7a8d88db8f9a6f62381b1086c5d9e3741f20bec8424088432f"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_surface_giant_fallen_log_1_7c4ba753d3.nbt"
+hash = "396a837925de69630e897ade31b7280ad302c8b619baa54692c7d6da9f76d95f"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_surface_giant_fallen_log_2_3bb117536c.nbt"
+hash = "35954af81d26c4b31e1d105a8d52fc255bffc8bd32c87c3ce77cbd81e340f5ab"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_trees_banyan_sparse_jungle_banyan_1_415df64ad6.nbt"
+hash = "af47f59cc9deeb52f0686b735d267096ff697be4b703c023b383a1555022b841"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_trees_baobabs_dry_tropical_forest_adansonia_grandidieri_1_9ad15e836d.nbt"
+hash = "3841da0ef712102cb44e08095855662fa4b54f9e11f3ac512c77d4219b306cf8"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_trees_baobabs_dry_tropical_forest_adansonia_grandidieri_2_3ebbecb9b2.nbt"
+hash = "3eb7348758465cd54473f43e9370f3e5a7fe4cb5829478e4910b1244887ee718"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_trees_baobabs_dry_tropical_forest_adansonia_grandidieri_3_4e979da98d.nbt"
+hash = "764e9794a4fcd79d7eeb1dc7e0ef4f6c160d11a8cab3e3459d324115c9eac7d1"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_trees_baobabs_savanna_adansonia_digitata_1_075bf41d7e.nbt"
+hash = "e6a2908aad9eaf7e5119be11a650d490dde0924db32728495f81fe1c792d4ee9"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_trees_baobabs_tropical_forest_adansonia_digitata_1_075bf41d7e.nbt"
+hash = "e6a2908aad9eaf7e5119be11a650d490dde0924db32728495f81fe1c792d4ee9"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_features_trees_baobabs_tropical_forest_adansonia_grandidieri_1_9ad15e836d.nbt"
+hash = "3841da0ef712102cb44e08095855662fa4b54f9e11f3ac512c77d4219b306cf8"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_structures_underground_el_dorado_starts_1_9389b15ef9.nbt"
+hash = "295e790102d1666beaf26ec840a57c5fb9d43f95aacdf41f6f7c71039eba7ee3"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_village_badlands_plateau_town_centers_meeting_point_1_413c412c3d.nbt"
+hash = "250799430ea44fab07b08fb7fc9c5c8afe3f09fa73ee79dd624fde3b321b6239"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_village_pueblo_town_centers_meeting_point_1_e0e1db1fdd.nbt"
+hash = "96ae6e09a72933705ecb236bd70b9a31caf19569a019a121d2ba0af3ae5484a9"
+
+[[files]]
+file = "modernfix/structureCacheV1/wythers_village_wooded_badlands_plateau_town_centers_meeting_point_2_4efb5b6c7b.nbt"
+hash = "e5edf3919dc05d671677d26df225c3d2133afe44c6cc3526fedabca1d936a2d0"
+
+[[files]]
+file = "modpack.json"
+hash = "8e93cab9d6f4ee1cfa70829b90bf25238a854c13c9000823dddd18f2db884a6c"
+
+[[files]]
+file = "mods/AmbientSounds_FABRIC_v5.3.5_mc1.20.1.jar"
+hash = "b1d5971da3d22f8ac1657b05fc41b494e28758c2103772abf8726f1e16aedd25"
+
+[[files]]
+file = "mods/BetterAnimationsCollection-v8.0.0-1.20.1-Fabric.jar"
+hash = "3422beb313db16573400828fbb47f9e8395d4dca6ac497491e2d4497e207b3b7"
+
+[[files]]
+file = "mods/BodiesBodies-1.0.1.jar"
+hash = "87149dbd4a73b2d993870f5126aeeb0005ac2fe7726b9479f4e420be8adbf590"
+
+[[files]]
+file = "mods/Chunky-1.3.92.jar"
+hash = "c7ba683f090c98e269c782a437d4984e9c7c288d70be0cbbea6b0fdcd9109534"
+
+[[files]]
+file = "mods/Clumps-fabric-1.20.1-12.0.0.3.jar"
+hash = "ebe1d60192183f120d6d572b6ebe6562892a2783bc5a7f28a599497e10523b7e"
+
+[[files]]
+file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
+hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
+
+[[files]]
+file = "mods/CraftTweaker-fabric-1.20.1-14.0.30.jar"
+hash = "0d5c65be968e77c9118cdc6b7be650c52b736d6f9c3722c1c7f576c5e44ced97"
+
+[[files]]
+file = "mods/CreativeCore_FABRIC_v2.11.16_mc1.20.1.jar"
+hash = "5d69694a8c605e80c6ce34af8375841f5631036b5ebef4694d89b9844633b6d3"
+
+[[files]]
+file = "mods/Debugify-1.20.1+2.0.jar"
+hash = "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d"
+
+[[files]]
+file = "mods/DripSounds-1.19.4-0.3.2.jar"
+hash = "3d6038f0022b1e65eaefdcbfa65b5275da3ca63c4add7a38b078205f16124960"
+
+[[files]]
+file = "mods/EasyAnvils-v8.0.1-1.20.1-Fabric.jar"
+hash = "d0196f782c5c88b395a68a115c4892396dbbac59e79545c3d539ab29ec2e23a5"
+
+[[files]]
+file = "mods/EasyMagic-v8.0.1-1.20.1-Fabric.jar"
+hash = "c36c2cd0e53647d76581c85db967a18a88b53ffd42f8a2e1b6da5482b58cde1b"
+
+[[files]]
+file = "mods/ExtendedDrawers-2.1.1+mc.1.20.1.jar"
+hash = "4f6f8167b34e0ac035e323c7893dfcce802611100c0bbe6ede0e8dc63e16591e"
+
+[[files]]
+file = "mods/FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
+hash = "e46350f4769d53647fc1371f65a2a39ad7bc3c552423c4e42a06804eb6f40049"
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
+hash = "91e685925fff2fcaa51a73202a6edc9d2435f76552a8d97af88942c37643fd86"
+
+[[files]]
+file = "mods/FpsReducer2-fabric-1.20-2.5.jar"
+hash = "d0e3ad76ed75db120f20df6cfbd2f7e629e82901d70b2bb0ee88c108e5d0324e"
+
+[[files]]
+file = "mods/FrozenLib-1.5.4-Fabric+1.20.1.jar"
+hash = "bd21356b755f762c167d3fb530c34b483d2e186b5611cba72518c0ed4c1d2bf8"
+
+[[files]]
+file = "mods/IllagerInvasion-v8.0.3-1.20.1-Fabric.jar"
+hash = "b9e8697b2c34189a7f599cc501cadf4d7917bd9bbec0cdaf964b64ab99e7f778"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.2.8+1.20.4.jar"
+hash = "3b53e7e0652c511d6b261e6619bf4aa91b0ef58684412a1c846bc80eeba31f8e"
+
+[[files]]
+file = "mods/ImmersiveThunder-1.20.1+1.2.2.jar"
+hash = "ca62ef0e1b7eeb4079feb59622ebf26102e342ef0ff1eb1c8aa4466cff2222a6"
+
+[[files]]
+file = "mods/Jade-1.20-fabric-11.7.0.jar"
+hash = "3c2027956145ce73b920ae4ef7306922d588827a88618eb621fd8f01a93a9c0d"
+
+[[files]]
+file = "mods/JadeAddons-1.20.1-fabric-5.2.3.jar"
+hash = "5406c6f5ad625b11cbe892e804f18fff9db6dc0364edf1ec1661e7a9a1112162"
+
+[[files]]
+file = "mods/JustEnoughResources-Fabric-1.20.1-1.4.0.238.jar"
+hash = "04624720a51175e9625de919fbef984df7c58307911ffc55205851d283eed7bc"
+
+[[files]]
+file = "mods/Kiwi-1.20.1-fabric-11.4.0.jar"
+hash = "ac6fc74d60997fd7318218015a7bef9ac200e7420e46bcde86161b5b2cd29bd5"
+
+[[files]]
+file = "mods/Ksyxis-1.2.2.jar"
+hash = "8e97bb392718099d54377738a3501284eef98fbd54f6b46b4350fc9267ef4d47"
+
+[[files]]
+file = "mods/Log-Begone-Fabric-1.20.1-1.0.8.jar"
+hash = "3c19307940567406c816cc4e531032c49eca57a8a3c8af3469778cdc5f34c4c9"
+
+[[files]]
+file = "mods/ModernUI-Fabric-1.20.1-3.9.0.4-universal.jar"
+hash = "d941658e587e83cbd0617f2a3310f7a688c8cafae1d82678743140e4c1a0f532"
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc1.20-2.25.jar"
+hash = "4b25e0112a95a4c8343d5ca8d32b8c168b0ec441e73f4a4e4e74504a7b5accfc"
+
+[[files]]
+file = "mods/Notes-1.20.1-2.1.0-fabric.jar"
+hash = "5419f92445df411564dd8a7260d9f4150a29a6a6ccfd0cf61ac28037dee2cbef"
+
+[[files]]
+file = "mods/Nullscape_1.20.4_v1.2.4.jar"
+hash = "ce848a2c5ec419cfbdfa59249ab94c682a3d8813d24e7ca53ce978e72bfb1e89"
+
+[[files]]
+file = "mods/Obscure-API-16.jar"
+hash = "019e625a4f515b4faa65ae74b0bc16bc59fcc7534640bc7f76ad0f6e688de0d9"
+
+[[files]]
+file = "mods/Ping-Wheel-1.7.1-fabric-1.20.1.jar"
+hash = "f8fc1ceaab76325e075be4ec47c866ec296792ae630bfd37ef336df11a6e8ee8"
+
+[[files]]
+file = "mods/PresenceFootsteps-1.9.1.jar"
+hash = "742736b2f3584f52a7b0336252b63b6ddec176891262fec90a12756976c2931d"
+
+[[files]]
+file = "mods/PuzzlesLib-v8.1.13-1.20.1-Fabric.jar"
+hash = "3e083dd8c9a84073cd667dc4b80e6704b350e5e0a1c061b69e97993ff50fc92c"
+
+[[files]]
+file = "mods/Resourcify (1.20-1.20.1-fabric)-1.2.1.jar"
+hash = "d7c1d6cf8fe6469ba1870adde69d8395eee50ecabee19846f718f9be5bebfc64"
+
+[[files]]
+file = "mods/Searchables-fabric-1.20.1-1.0.2.jar"
+hash = "0115a3c982a2be92537e72ec6e8e1b56db4d888e54d3f3fc7bda3cf3a4e9a702"
+
+[[files]]
+file = "mods/Steam_Rails-1.5.1+fabric-mc1.20.1.jar"
+hash = "c8f91eae89f49e9d2ed7137dfd2e42474153db6b02944b910c487dd6c7551eaf"
+
+[[files]]
+file = "mods/TerraBlender-fabric-1.20.1-3.0.1.2.jar"
+hash = "64640b327083b83a47fa7af503a014faeec9c3405527da7202d8d16ac1fa6bb4"
+
+[[files]]
+file = "mods/Towns-and-Towers-1.12-Fabric+Forge.jar"
+hash = "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984"
+
+[[files]]
+file = "mods/WWOO-FABRIC+FORGE+QUILT-2.0.0.jar"
+hash = "82c5548aad49558d61bdb64a915788e2e80064547dcdbbd21cc8131da2b50700"
+
+[[files]]
+file = "mods/WilderWild-2.2.3-Fabric+1.20.1.jar"
+hash = "079e24f7a79c90f45aa22e5a750994cd6d76523064a5dbf8c7836ad96cca9a0d"
+
+[[files]]
+file = "mods/XaerosWorldMap_1.37.2_Fabric_1.20.jar"
+hash = "9387c6081e5f67ed583b78d133f9212dc955d66584e705924ce96bfa419faac1"
+
+[[files]]
+file = "mods/Xaeros_Minimap_FP23.9.4_Fabric_1.20.jar"
+hash = "99eb9648c79c1d8453a2cda0348efb65b0f796f5658f0efd7906e95092087988"
+
+[[files]]
+file = "mods/YungsApi-1.20-Fabric-4.0.2.jar"
+hash = "9e275f53712c31faa8e4deb9be23fb236bb12e912dc922821cd597e0f67bb38b"
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+hash = "790e31c2a19194b81ca0dc134694a5b9f935c5c19c50aadcfb4f90a613c19bff"
+
+[[files]]
+file = "mods/YungsBetterEndIsland-1.20-Fabric-2.0.4.jar"
+hash = "cd8685e0d55893cd3256ef1c39c00736f8d49cf952a73b465a44a2c0f9ae036b"
+
+[[files]]
+file = "mods/YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar"
+hash = "c51b2ea652a592c2d88eab981d57e8a1f638e8bf637ffd636d686423fd7a1465"
+
+[[files]]
+file = "mods/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+hash = "0a4657689217339a1f6079a2d9dda03f6d01beacac59c14e093ded3357db2b86"
+
+[[files]]
+file = "mods/YungsBetterNetherFortresses-1.20-Fabric-2.0.5.jar"
+hash = "b0025adc8cb789de3cabe08dee0f7de150f9a6a6af02f80d49bf21df94cadfe0"
+
+[[files]]
+file = "mods/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+hash = "3013484bceee72540a1eb76d403a0c36db0fd6d99a1e1b5a398b37ca50f27fb2"
+
+[[files]]
+file = "mods/Zoomify-2.11.2.jar"
+hash = "c54c3cf2b63f49e2c8da01f27e9288f6e73a860cbd3a2caff8b03cf95aa05e45"
+
+[[files]]
+file = "mods/alternate-current-mc1.20-1.7.0.jar"
+hash = "06303e54ba9b1cc5c67695597a8f5b8a3eaf8a1dba2f307edc4ab20300bdd868"
+
+[[files]]
+file = "mods/animal_feeding_trough-1.0.3+1.20.1.jar"
+hash = "30f0cb6a92c86a9ecdb1e66e8ff2859a941c371c220de4fa2252104d603a799b"
+
+[[files]]
+file = "mods/another_furniture-fabric-1.20.1-3.0.1.jar"
+hash = "7edd08c7c9d627514e1008ea8631511402609251f53b8c3470278fc69f7c7ae5"
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.20.1-2.5.1.jar"
+hash = "85e23a429634048a2e9addc808914c1c43083083f5e21f2bf3c39c49e5af38b5"
+
+[[files]]
+file = "mods/architectury-9.1.12-fabric.jar"
+hash = "0c55eda09caa42c625ca1d91e32078f73a8b1d0eef62f20b748569c84cb13147"
+
+[[files]]
+file = "mods/balm-fabric-1.20.1-7.2.1.jar"
+hash = "536ba3f1f094ffc18dec5d5fcdf2a60153f442a3ccb268632b63fb85fe345333"
+
+[[files]]
+file = "mods/better-clouds-1.3.13+1.20.1.jar"
+hash = "0a40c39119b5efb53f2848d8d89df026f983c58d9243ad421d7149ee8403b73a"
+
+[[files]]
+file = "mods/biome_replacer-1.2.jar"
+hash = "cb7c2ea47c51797dceaa177376c262a8bfe3c4b9e344203b99e25004b87baa93"
+
+[[files]]
+file = "mods/cherishedworlds-fabric-6.1.5+1.20.1.jar"
+hash = "7d9a39c1354fb8f75cf6e08ca18eeb6c2744373a2555d54d4d8b5dc397240a1e"
+
+[[files]]
+file = "mods/chunkloaders-1.2.8a-fabric-mc1.20.1.jar"
+hash = "698d58ed3bf138f6ed250bcdd5fd7219736715b318e0cd121b3f0e0d09e29167"
+
+[[files]]
+file = "mods/cinderscapes-4.0.10.jar"
+hash = "f4bf4b575cb71a2a37e5e749d86f399b9390dbe3b0c00d6d16cc9fbb1b49d58e"
+
+[[files]]
+file = "mods/cloth-config-11.1.118-fabric.jar"
+hash = "1a5b6bfc5abb0516b2aa883f99ddff11af2faa5cebdf33beb52cd4e3cd37bb75"
+
+[[files]]
+file = "mods/create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar"
+hash = "ad124b2223417d2b06379815d00e6700afc7dd024387cd9b3c82f8fb3150083e"
+
+[[files]]
+file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
+hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
+
+[[files]]
+file = "mods/createchunkloading-1.6.0-fabric.jar"
+hash = "9dfd56a2f0a68201b8e405d8a9bbd6f5ba2d980604ae35ed58aff0f15a12e064"
+
+[[files]]
+file = "mods/cristellib-1.1.5-fabric.jar"
+hash = "6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b"
+
+[[files]]
+file = "mods/ctov-3.3.6.jar"
+hash = "4533867b4f77123797a586ecccea32d80f18d1acad143c7e95c37f65b8302df9"
+
+[[files]]
+file = "mods/ctov-create-structures-1.0.jar"
+hash = "ffe9a8d96e585138f7aa5c07dbbf4039cbefaaa1f8b74f78fb7d6d44ae2cea08"
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat-2.1.jar"
+hash = "702ce649fb80e450ea8867359e90a044a97ec19e064c5ea39d7bcd60f2aad8d9"
+
+[[files]]
+file = "mods/dawn-5.0.0.jar"
+hash = "6346c996358b889a5b0c3102889b71ffe16dd3852e06e6579d0f7f0d47d29313"
+
+[[files]]
+file = "mods/deathlog-0.3.2+1.20.jar"
+hash = "c19581f55447d56aa36af9898077781157c2c9a71ee092722b8f854563656255"
+
+[[files]]
+file = "mods/doapi-1.2.8-fabric.jar"
+hash = "af4c6d942a447ca56fcfa603a3e9921e3db45b9dded09d6f9ce9c35cc8b3b6fa"
+
+[[files]]
+file = "mods/dungeons-and-taverns-3.0.3.jar"
+hash = "d98f2d445209980150be0ba5ed1b89766b11413757cae6c706ab4baba41ada8d"
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul-1.jar"
+hash = "d702b10475e8b7f3b99d433e5b4f9beab5cfa70f2c71613fa0e288c5a8061d78"
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-rework-1.jar"
+hash = "d9aab87341c8579b9621dc41230385679e249cfa99d04ae0e0ec27ec15174467"
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-rework-1.jar"
+hash = "14e06a09103f714ab395df5da710530af7b19e3fbed1dc75830c45b2b2a3fad6"
+
+[[files]]
+file = "mods/eating-animation-1.20+1.9.5.jar"
+hash = "cb1087c97c69ade206fe6d273682510730518e07a9d17d6b3760041e4dc87474"
+
+[[files]]
+file = "mods/eco-1.20.2-2.4.2.jar"
+hash = "0fe652764184bbf7b841e883aea623912d6f7f4dd2b1e338fbb08c29b8ceea36"
+
+[[files]]
+file = "mods/edf-remastered-4.3.jar"
+hash = "1e216ce90e49e283e133daee2fb59a09cb3a93a515926c2215778f833b2da687"
+
+[[files]]
+file = "mods/elytra_trinket-1.0.3.jar"
+hash = "3070f3441bd935522e53e520eab583e58f04b97fde542f3455fb9eaaf0fbd55d"
+
+[[files]]
+file = "mods/elytratrims-1.4.5+1.20.jar"
+hash = "d93d36b913f99febfc352ef7a8227b0e33e54ae8e79d390624ab0ab4f1447749"
+
+[[files]]
+file = "mods/emi-1.0.30+1.20.1+fabric.jar"
+hash = "826aeca03fcf48629ee6cac4951022cbfa1f95b2972d7c11485f7916f32ca71c"
+
+[[files]]
+file = "mods/emi_loot-0.6.5+1.20.1.jar"
+hash = "a350ccbfe6b6d4fb492b46be8041fa221c13b929cd1cd63ce651d24d28017b93"
+
+[[files]]
+file = "mods/expanded_ecosphere-3.2.4-fabric.jar"
+hash = "be13faed84ad1fc8fb175de204e4e297ef99accf68a0d8b01c05347fcced1e61"
+
+[[files]]
+file = "mods/explorify-v1.3.0-mc1.20.jar"
+hash = "7ce41507689f1cb1468e989baaa65ca1cb9a063a0d9e38c08823a8b9c21972a5"
+
+[[files]]
+file = "mods/extra-mod-integrations-0.4.2+1.20.1.jar"
+hash = "659e32afd34ea60c22cb80013a68e77c1cfc21b51aa71d7ca09a6dd1d841abe2"
+
+[[files]]
+file = "mods/fabric-api-0.91.0+1.20.1.jar"
+hash = "1d2471a83c6af8f416faa54594eb69d7e713d361bcbf35d86bb7a2f432d7ed55"
+
+[[files]]
+file = "mods/fabric-end-remastered-5.2.4.jar"
+hash = "69e258214a055a75c406b7f0d8876521a6a5d08dd945673453dada7890072f96"
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar"
+hash = "8f7205fef1222438636d3809bdf5d2b314899f0a161960b661a850ff596cc37a"
+
+[[files]]
+file = "mods/fabric-seasons-2.3+1.20.jar"
+hash = "31ff2d3af46695c382d61a59c89fe63c83dc7e039f3b589a5621e669cd9f74c4"
+
+[[files]]
+file = "mods/fabric-seasons-delight-1.3.9-compat-1.0.jar"
+hash = "149a075aa3b4902754528c36be66d4d43532b896d3155870bfd0d42a09b02c13"
+
+[[files]]
+file = "mods/fallingleaves-1.15.4+1.20.1.jar"
+hash = "c71dadd60867dc4587d4a0c770cb6cd0fff1ac8df2b1b4e379b1563438ca59e6"
+
+[[files]]
+file = "mods/farmers-delight-fabric-1.4.3.jar"
+hash = "ea9d91b0a9d5d03abe8388d6e6af429baefe1da2ecc95753b045cea5bd6ed98a"
+
+[[files]]
+file = "mods/ferritecore-6.0.1-fabric.jar"
+hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "mods/frostiful-1.0.2.jar"
+hash = "5bff02a41e66dbcfc01ef55eea1088f16ebfc3ac4593091d90861ae3500b15b1"
+
+[[files]]
+file = "mods/furnish-26-fabric.jar"
+hash = "d92f4d473dd02ba756de0f02d85ff4523e4e71adfe75ea3ea0500deabc86ddb1"
+
+[[files]]
+file = "mods/geckolib-fabric-1.20.1-4.4.jar"
+hash = "6584c5e1b3b3c5c8a1aa7203419ec7adf4550f5baab2cedf594f0142e3f12024"
+
+[[files]]
+file = "mods/geophilic-v2.1.0-mc1.20u1.20.2.jar"
+hash = "988477f9dea904d916b1a261ae7c2475a453ed7a5490f96c8742d353740c5586"
+
+[[files]]
+file = "mods/harvestwithease-1.20.1-8.0.1.0-fabric.jar"
+hash = "f9cb79aa4531ba262561ab0e017ab7f1c0a10dcd1b2a560369282f5237530dd3"
+
+[[files]]
+file = "mods/iammusicplayer-fabric-mc1.20-3.22.0-alpha.2.jar"
+hash = "13277fdf872d67d71ff4e8cbb44e9abab21cb8f44006009abccf611393d6a9ab"
+
+[[files]]
+file = "mods/immersivesnow-1.20.1-1.3.0.jar"
+hash = "f9cc27860f75242667880c1f22763a9f246e29c0f6874751a3c69d2ebfd9306e"
+
+[[files]]
+file = "mods/indium-1.0.27+mc1.20.1.jar"
+hash = "9789a93f1aeb235d74d54df6e81a371aaf15cd1a9805f68d1cfadbdf4be99361"
+
+[[files]]
+file = "mods/inventorymanagement-1.3.1+1.20.jar"
+hash = "0f41dc90fd1ade8d5d4c937e556283c95ddcddf94821e281711f1e179deb81d0"
+
+[[files]]
+file = "mods/iris-mc1.20.1-1.6.11.jar"
+hash = "4e09d0fb24cf16c4f3e651d172071fc5a4ddadd157a02ce74c9a520de4553c2b"
+
+[[files]]
+file = "mods/jei-1.20.1-fabric-15.2.0.27.jar"
+hash = "0a34b5aa501f25acf595e56d20dd950312df20eb3801a32963371fc46b66fa16"
+
+[[files]]
+file = "mods/krypton-0.2.3.jar"
+hash = "69ad1810206ce12181b1b083640f044e7e250781c36c96c655eac36209057698"
+
+[[files]]
+file = "mods/lambdynamiclights-2.3.2+1.20.1.jar"
+hash = "20433fb9a20f9450599bde4d8f0e8b0898eefdbda13e47d68430d31422c9f564"
+
+[[files]]
+file = "mods/lazydfu-0.1.3.jar"
+hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
+
+[[files]]
+file = "mods/legacies-and-legends-1.20-v1.2.8.jar"
+hash = "24a579df37d85b20b12ed7c5977e7275b1bd936036b7dc69b59416d883e04943"
+
+[[files]]
+file = "mods/letsdo-vinery-1.4.7-fabric.jar"
+hash = "8ac97b6da009266b5c39fbfd27b60934bee2c2534803cb127abab87d37fb8b36"
+
+[[files]]
+file = "mods/liquidburner-1.20.1-0.5.jar"
+hash = "9e88492162e9cc50cd3719d7dab799a176822d9ea0431b8e26a14f42b8fa0e2a"
+
+[[files]]
+file = "mods/lithium-fabric-mc1.20.1-0.11.2.jar"
+hash = "a0c595355d680e0c87bf8eaebafedff6900d4e771a8d6894ee6d2d4374de8df9"
+
+[[files]]
+file = "mods/make_bubbles_pop-0.2.0-fabric-mc1.19.4+.jar"
+hash = "b1e82615bf4b24e08bd3f4bb51884fa6c973f76cf4c71cadf4f4444044989b4c"
+
+[[files]]
+file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+
+[[files]]
+file = "mods/midnightlib-fabric-1.4.1.1.jar"
+hash = "e94c144416219f39f19483f7a52339021e09ddbf7e820cb086a087298e7e7f2b"
+
+[[files]]
+file = "mods/mixintrace-1.1.1+1.17.jar"
+hash = "26ca21a27706cfa4561868f31c4fd07c542e8cc759419f5884ddff1f3a126a99"
+
+[[files]]
+file = "mods/modernfix-fabric-5.12.1+mc1.20.1.jar"
+hash = "ba29370f2a0e367b80dad4a3472ef2755ac2f624c07a06463ccdbd1de67edf6f"
+
+[[files]]
+file = "mods/modmenu-7.2.2.jar"
+hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+
+[[files]]
+file = "mods/moonlight-1.20-2.8.82-fabric.jar"
+hash = "d5aa8c7a76ad148024509df85c96937d5e8fad6c074c49f8d992c0828497533e"
+
+[[files]]
+file = "mods/naturalist-fabric-4.0.3-1.20.1.jar"
+hash = "a21c21068a46bb7663376b0cce7e7ac9228aac46db2bc5f3d13ab9b44ed3aa92"
+
+[[files]]
+file = "mods/netherportalfix-fabric-1.20-13.0.1.jar"
+hash = "5b6e5eb6015092f0600c2fd226bc73ff8a7d3994459dcb817f9095f6c8efb960"
+
+[[files]]
+file = "mods/no-rocket-boosting-1.0.0.jar"
+hash = "d4fb9228cccb1556554d26aa5ffba7a01c711fa9e3089073a1d995b1a6727e71"
+
+[[files]]
+file = "mods/noisium-1.0.2+mc1.20.x.jar"
+hash = "5ac6daa5b1c00f66a3cd5be44b80523e336a98bf3c113ffe118d31865ad95ef0"
+
+[[files]]
+file = "mods/not-just-biomes-mc1.20-1.1.0.jar"
+hash = "0d8ef8b160df14643ed1b32106e6ba655e14607fa6c887d9bd1326906c4086ed"
+
+[[files]]
+file = "mods/notenoughanimations-fabric-1.7.0-mc1.20.1.jar"
+hash = "0399528f0a5651bf9b49fad3a8c15cca5173d63e7696bc4cf345223bf6e38217"
+
+[[files]]
+file = "mods/numismatic-overhaul-0.2.12+1.20.1.jar"
+hash = "459c062c4df3f1e5c40ffb06b7a11f2b690ead46ece8019b6234f57aa5566570"
+
+[[files]]
+file = "mods/nvidium-0.2.5-beta.jar"
+hash = "75e18cdfb10898dd045b899f6db25033bf16e5f24675ff0efb9c5a8ada531683"
+
+[[files]]
+file = "mods/otyacraftengine-fabric-mc1.20-3.7.0-alpha.2.jar"
+hash = "c367f5c245e8e4e5bb55e39f8c1f61c72def854eacd83fbea7408537601c0a0f"
+
+[[files]]
+file = "mods/owo-lib-0.11.2+1.20.jar"
+hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
+
+[[files]]
+file = "mods/particle-rain-2.0.8.jar.disabled"
+hash = "64a97276527a4d9cc4b97e6c49de4e692b78706f0cc490b5975f3d4ced93536b"
+
+[[files]]
+file = "mods/promenade-4.1.1.jar"
+hash = "1b73ed9401e194b1c1948a54b59d941ac147921e7ede50d150b2390d56bb2260"
+
+[[files]]
+file = "mods/reeses_sodium_options-1.6.5+mc1.20.1-build.95.jar"
+hash = "123633ed47be0c0095aa2003d2e69cd5fa4b55123047b666914a5a63ebdd9dce"
+
+[[files]]
+file = "mods/saplanting-fabric-1.20.2-1.2.5.jar"
+hash = "c6b300bfecad9757145eee3800ca0b3c8a28cf373fc869740e46254d0f82dcbe"
+
+[[files]]
+file = "mods/sliceanddice-fabric-3.0.0.jar"
+hash = "f995009fc39668dad40665392d2f0c964f7ba867a44b0105fde1b1311ccdff1e"
+
+[[files]]
+file = "mods/sodium-extra-0.5.1+mc1.20.1-build.112.jar"
+hash = "8ebab35ff3bed0b7abbaf0d8aa83fc9f1c316ea95573c516cfc168ae44cc1f10"
+
+[[files]]
+file = "mods/sodium-fabric-mc1.20.1-0.5.3.jar"
+hash = "b10e60b8000194bc617fd2c396a8584a5cc33a3118c8b382128452c3f93f881d"
+
+[[files]]
+file = "mods/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
+hash = "065a4f9ccdc7dbba36c36f66dd2263d8fb14a24d30e3d6903e248d70af243127"
+
+[[files]]
+file = "mods/spark-1.10.53-fabric.jar"
+hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
+
+[[files]]
+file = "mods/spoiledz-1.0.8.jar"
+hash = "a55d34e32f43a47c91f426369a79cb334870366b4ff78d412a62c7f2db58a8f6"
+
+[[files]]
+file = "mods/starlight-1.1.2+fabric.dbc156f.jar"
+hash = "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8"
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
+hash = "fe76c8cf001878109adbdd2f4ef877b76ddfdefdca91ff9b90353c2e8af8022c"
+
+[[files]]
+file = "mods/supermartijn642corelib-1.1.16-fabric-mc1.20.1.jar"
+hash = "9d76c26d56c2992bb184b385c5731ba877dd40d34cea6d9c4455fbd37b8d0f45"
+
+[[files]]
+file = "mods/supplementaries-1.20-2.7.23-fabric.jar"
+hash = "530e769dc656d9f9c7088ef92c7edda3105eb332ac72369ccad254434bdb3839"
+
+[[files]]
+file = "mods/tectonic-mod-1.19.3-v2.2.jar"
+hash = "ec7da8b64073ad4ab475a67b3d31bbfddc1e26637b062d5f136a1f58da9e86c9"
+
+[[files]]
+file = "mods/textile_backup-3.1.2-1.20.jar"
+hash = "d29d1a6e187ad381a6658618496095b17b98986154b761236174e35147c5619e"
+
+[[files]]
+file = "mods/thermoo-2.1.0.jar"
+hash = "2f5ad5e9869a48af81a1cb4f89920104e8dc0c25129a69be4ba3ca5380a9ad74"
+
+[[files]]
+file = "mods/trashcans-1.0.18-fabric-mc1.20.jar"
+hash = "09852ec3febefcc70f4d58541385c520024dbcbd7a92f77242cb3cba32933841"
+
+[[files]]
+file = "mods/trinkets-3.7.1.jar"
+hash = "6ec3c49dfaefb8753da2de99fae2feef63f1653b4267ee8bac22d2298d0d9be6"
+
+[[files]]
+file = "mods/valhelsia_core-1.1.1.jar"
+hash = "22501aef749dbc12f16a1fd4b9a0e6be5ff796a74cd144c0a99f80e761167ba0"
+
+[[files]]
+file = "mods/valhelsia_furniture-fabric-1.20.1-1.1.2.jar"
+hash = "c26b0b6e466713c09d2e08be18f23ec5a55e5b4a92392186b95550d5613de48f"
+
+[[files]]
+file = "mods/vcinteraction-fabric-1.20.1-1.0.6.jar"
+hash = "405bd8cdf876e7d02839f03cf07e67f69f86a99df9028409312a7d4e6ac2ba6e"
+
+[[files]]
+file = "mods/voicechat-fabric-1.20.1-2.4.32.jar"
+hash = "891eb9a953aff057fe5cd759d19b62145e45ee852721f7ebc1b51b069c113bdd"
+
+[[files]]
+file = "mods/wakes-0.2.3.jar"
+hash = "0202c8fe96076bca43a849773c1d3fe1f841605835440e088b62edfc5b7df93c"
+
+[[files]]
+file = "mods/yet-another-config-lib-fabric-3.2.1+1.20.jar"
+hash = "c5ad5a3dacb789671657f9023675f957bf4cb81b32fdc4817ed1ba14f2acd60e"
+
+[[files]]
+file = "ops.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "server.properties"
+hash = "405996feac177a3926765ca585fcba091c3c5d25b7947e7bc1aa2935b8815d2d"
+
+[[files]]
+file = "startServer.bat"
+hash = "8b502531ee365fb18e87679afa782f97ff92867ad41632a6b9fb586ea0207230"
+
+[[files]]
+file = "usercache.json"
+hash = "47058050666674b6cf8d7bbfafe3a0a6d674a19a04280512c7286352897be8a4"
+
+[[files]]
+file = "usernamecache.json"
+hash = "73d42e43b3815894609e8646fb3194623038b459ad985413f068f0e4333be8da"
+
+[[files]]
+file = "versions/1.20.1/server-1.20.1.jar"
+hash = "80db52b203ac5de6e5fc1c5082259df440fb2b5390b4c61d474e8fbc63cc41f5"
+
+[[files]]
+file = "whitelist.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "world/DIM-1/data/chunkloaders_loaded_chunks.dat"
+hash = "856974068ed79cb1b12af7db975da75ba82e5c74ca92b202bdfdcd34d8d5d4d1"
+
+[[files]]
+file = "world/DIM-1/data/crafttweaker_saved_data.dat"
+hash = "953704e05fca9bbf8e5ac359959d8ce110fb9d3894a6c8465cda8d7b9e13e7e5"
+
+[[files]]
+file = "world/DIM-1/data/raids.dat"
+hash = "55d332861fe41dd5b501e3bb8559b1cebc5daacf9195c16d63435fd9f6b2aa2e"
+
+[[files]]
+file = "world/DIM1/data/biolith_end_state.dat"
+hash = "ef0678281f09983cebe8d42293f0d0e5b9de376c18cc15f8f8509f4982b835aa"
+
+[[files]]
+file = "world/DIM1/data/chunkloaders_loaded_chunks.dat"
+hash = "856974068ed79cb1b12af7db975da75ba82e5c74ca92b202bdfdcd34d8d5d4d1"
+
+[[files]]
+file = "world/DIM1/data/crafttweaker_saved_data.dat"
+hash = "953704e05fca9bbf8e5ac359959d8ce110fb9d3894a6c8465cda8d7b9e13e7e5"
+
+[[files]]
+file = "world/DIM1/data/raids_end.dat"
+hash = "55d332861fe41dd5b501e3bb8559b1cebc5daacf9195c16d63435fd9f6b2aa2e"
+
+[[files]]
+file = "world/DIM1/entities/r.0.0.mca"
+hash = "e0b6d6c47995eb490090d82f588a48b43db2dc1db1a4dec7ed6691e6ab69b9ff"
+
+[[files]]
+file = "world/advancements/8bf2f047-979d-433a-8f61-598edc6f4819.json"
+hash = "861b267bb2103503f2c1887bfe9a202bbae5ccd554d46f6191108879d60b7466"
+
+[[files]]
+file = "world/chunkloaders/active_players.nbt"
+hash = "3f0eb91c6bbd889b15a0f4ce54e18329ad771f134286939bffbc312d9f8cd1d4"
+
+[[files]]
+file = "world/data/biolith_overworld_state.dat"
+hash = "94162010b08729cbd6dd13c570be73e7d88b526916a7959842f83571d5c3ff98"
+
+[[files]]
+file = "world/data/chunkloaders_loaded_chunks.dat"
+hash = "856974068ed79cb1b12af7db975da75ba82e5c74ca92b202bdfdcd34d8d5d4d1"
+
+[[files]]
+file = "world/data/crafttweaker_saved_data.dat"
+hash = "953704e05fca9bbf8e5ac359959d8ce110fb9d3894a6c8465cda8d7b9e13e7e5"
+
+[[files]]
+file = "world/data/death_history.dat"
+hash = "18d52c56df71dad94b8af30a3242e7777cb650748b3db728914b1a92fea015b8"
+
+[[files]]
+file = "world/data/extended_drawers/drawers/region/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/data/extended_drawers/drawers/region/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/data/extended_drawers/drawers/region/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/data/extended_drawers/drawers/region/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/data/extended_drawers/drawers/region/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/data/extended_drawers/drawers/region/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/data/fabricRegistry.dat"
+hash = "a8b4e62bc4fffc47c7f6b31ebb4f8ce23e018eb44be13628dfaf8331f8281835"
+
+[[files]]
+file = "world/data/fabricRegistry.dat.1"
+hash = "a8b4e62bc4fffc47c7f6b31ebb4f8ce23e018eb44be13628dfaf8331f8281835"
+
+[[files]]
+file = "world/data/fabricRegistry.dat.2"
+hash = "a8b4e62bc4fffc47c7f6b31ebb4f8ce23e018eb44be13628dfaf8331f8281835"
+
+[[files]]
+file = "world/data/mfix_strongholds.dat"
+hash = "b5e5396a9017b8c710b15329b1138bd9437ba0f3a7cf5fbca1e9d5475d096c5d"
+
+[[files]]
+file = "world/data/raids.dat"
+hash = "55d332861fe41dd5b501e3bb8559b1cebc5daacf9195c16d63435fd9f6b2aa2e"
+
+[[files]]
+file = "world/data/random_sequences.dat"
+hash = "2069d5f0b926f41d9d4442f9043dfc02b3261e6c3992e63d559efd0ed51c2f3f"
+
+[[files]]
+file = "world/data/scoreboard.dat"
+hash = "7e5beb03d110267721ba5c9a58d249f5e72a525791b778ccfb105a7bf30a4d79"
+
+[[files]]
+file = "world/data/seasons_placed_meltables.dat"
+hash = "270c186bb7273324aaa323784edb17ced5bb4b3e06504b0ca491eb248966d676"
+
+[[files]]
+file = "world/data/seasons_replaced_meltables.dat"
+hash = "e658f31067c6b20da0c1e319ba05b75e6a8bdccb51fb80e9bf6b3ecde9538d30"
+
+[[files]]
+file = "world/entities/r.-1.-1.mca"
+hash = "c7c1c4fa13895c62e978d45f95ebe392011ee3d94a64e0e1631aa7cf5270e0f9"
+
+[[files]]
+file = "world/entities/r.-1.0.mca"
+hash = "1a147689ff434326cb3241dd717bf176541c8639a89de1086c3ddb0c0378a89e"
+
+[[files]]
+file = "world/entities/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/entities/r.0.-1.mca"
+hash = "d2332e12ffda8db8236b58951e6ceca2f696ca308b97a727f6fa13649430b96f"
+
+[[files]]
+file = "world/entities/r.0.0.mca"
+hash = "c0b6583704ad34fced980aca6d30ecf5312f669beb56973662203f7659bc2b1b"
+
+[[files]]
+file = "world/entities/r.0.1.mca"
+hash = "f30f51f32577a4e5021e935b485f9f342b47894c48bdcc1356f783c375bbb9bc"
+
+[[files]]
+file = "world/hasSpawnPlatformGenerated"
+hash = "36755c7fede35b75c69a01c033a817d85310f1fe18759e0b493b57c324783122"
+
+[[files]]
+file = "world/level.dat"
+hash = "214a311cfe1bf58dc4f00d9a85d69e51c5d0a0b33580db68f76809a739fa18a2"
+
+[[files]]
+file = "world/level.dat_old"
+hash = "8e92066821306d8f97c0ea05e9733a134669ca2572141cd31267e20ed23d2f56"
+
+[[files]]
+file = "world/playerdata/8bf2f047-979d-433a-8f61-598edc6f4819.dat"
+hash = "ac3456b8aa06d79ec77e15fd1e1c8fba2ac5f59a4aabca7b1de2bf50036106d5"
+
+[[files]]
+file = "world/playerdata/8bf2f047-979d-433a-8f61-598edc6f4819.dat_old"
+hash = "c1591f5a7a15611e77c4996c4055f89a3ca108d6ecb8ac1d2001c4c4cf253fe4"
+
+[[files]]
+file = "world/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-1.0.mca"
+hash = "b065a240d50f90e805054a28839da0bdf7b5657da8bd08b2fe91b3e7a9654364"
+
+[[files]]
+file = "world/poi/r.-1.1.mca"
+hash = "00bf114669dc94a786b542e0dd9c474f273234fab98a99759377597b1085beb1"
+
+[[files]]
+file = "world/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.0.0.mca"
+hash = "40eb2f17451006130b33bbf1488b0480bd06ea1a93576f3fa0ecdcd52a1de94f"
+
+[[files]]
+file = "world/poi/r.0.1.mca"
+hash = "056fa5c14ef3287e2007e15e1c8ddbcc6060640b754d66d427cc98ae74557d50"
+
+[[files]]
+file = "world/poi/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/region/r.-1.-1.mca"
+hash = "67cfe1b9ab2ddd028960e282cf9121787a3feb45b1d7198816fcace032fa6308"
+
+[[files]]
+file = "world/region/r.-1.0.mca"
+hash = "a1eb500c99e319d2b730922e4550a5a40950308b56bbe0bf9269c28ad477f291"
+
+[[files]]
+file = "world/region/r.-1.1.mca"
+hash = "dc68bc3573bc7ce85a3c30e473e657ca3c512e4abf252a74f249f3ee5a8382c9"
+
+[[files]]
+file = "world/region/r.0.-1.mca"
+hash = "052fc4ce083bb4144bfeed7a84718e2b5987964b800435577b9de2bd1847fef4"
+
+[[files]]
+file = "world/region/r.0.0.mca"
+hash = "1850ce172942c81aa0ddf813e4184b438fded723ebaa643da1be40e6ba29cf80"
+
+[[files]]
+file = "world/region/r.0.1.mca"
+hash = "832db053418e62888ab478f008d3a0ebcaac6c430252384e9e4ed9b2349005c3"
+
+[[files]]
+file = "world/region/r.1.-1.mca"
+hash = "0157090c955c65da3567db534d38415683085d2a67ce9fd79328ce005c4f071e"
+
+[[files]]
+file = "world/region/r.1.0.mca"
+hash = "15213556baddb6bfa4d229082901aa9f6dd96efbf32901b4803342a4dd144d57"
+
+[[files]]
+file = "world/region/r.1.1.mca"
+hash = "bc464364d43edb53e909bc39653c8b3fb2c8efd9b5dc4763f5858311998bec26"
+
+[[files]]
+file = "world/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "world/stats/8bf2f047-979d-433a-8f61-598edc6f4819.json"
+hash = "34f32ae36072b95e55da30c7769535fb607fbf5eb16c3cb9467d10778fcb3eaf"
+
+[[files]]
+file = "world/xaeromap.txt"
+hash = "da0142c6ef78c35408cd2bd4027b802f422384184e5c52210c08b34854093cbf"
+
+[[files]]
+file = "xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
